@@ -37,4 +37,29 @@ Primarily, issues are classified as
 * Rights
 * Prefrential or Private placements
 
-Public and rights issue involve detailed procedure. Whereas procedure of preferential or private placements are relatively simpler. 
+Here is the structure of above issues.
+![Structure of Issue](../resources/issues_structure.png)
+
+Public and rights issue involve detailed procedure. Whereas procedure of preferential or private placements are relatively simpler.
+
+#### Public
+Public issues can be of two types.
+* Initial Public Offering (IPO)
+* Follow-on Offering
+
+##### Initial Public Offering (IPO)
+Initial Public Offering (IPO) is offered by an unlisted company, for the first time, in the form of
+1. fresh issue of securities
+1. offer for sale of existing securities
+
+This paves the way for listing and trading of the Issuer's securities.
+
+##### Follow-on Offering (FPO)
+Follow-on Offering (FPO) is offered by an already listed company as:
+* fresh sale
+* offer for sale
+
+**Fresh Sale** is also known as **Dilutive** as this increases the no of share in the market. **OFS** on the other hand is also known as "Non Dilutive** as the existing big share holders like director offer their share for sale to the public.
+
+#### Rights
+Rights issue is offered by a listed company as proposal of issuing fresh securities to its existing shareholders as on a record date. The rights are normally offered on a particula ratio to the no of securities held prior to the issue. For example a rights issue in the ratio 1:1 will double the no of share held by existing share holders. This route is best suited for companies try to raise capital without diluting the stake of existing share holders.
