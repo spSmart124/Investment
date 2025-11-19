@@ -63,3 +63,15 @@ Follow-on Offering (FPO) is offered by an already listed company as:
 
 #### Rights
 Rights issue is offered by a listed company as proposal of issuing fresh securities to its existing shareholders as on a record date. The rights are normally offered on a particula ratio to the no of securities held prior to the issue. For example a rights issue in the ratio 1:1 will double the no of share held by existing share holders. This route is best suited for companies try to raise capital without diluting the stake of existing share holders.
+
+#### Preferential
+It is an issue of shared or of convertible securities by listed companies to a select group of persons under 62 of Companies Act 2013. This is a faster way to raise equity capital. The issuer company has to comply with the Company Act and the requirements in chapter pertaining to prefential allotment under SEBI guidelines which inter alia include disclosure, pricing, notice etc.
+
+
+Going for primary market issue, a company has to decide the issue price and calculate it's market capitalisation.
+
+### Issue Price
+**Issue Price** is the price at which a company's shares are offered initially in the Primary market. During the trade of the issues, the market price may be above or below the issue price. Investors can follow trades of public issues on the NSE website to check for market price.
+
+### Market Capitalisation
+Market Capitalisation = Current Share Price * No of Shares in the Market
