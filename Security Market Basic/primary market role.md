@@ -75,3 +75,60 @@ Going for primary market issue, a company has to decide the issue price and calc
 
 ### Market Capitalisation
 Market Capitalisation = Current Share Price * No of Shares in the Market
+
+### Difference Between Public Issues and Private Placements
+When an issue is offered not only to select people but to the general public at large then it is a Public Issue. By Definition, a Public Issue is an issue when it is offered to 50 or more investors.
+
+On the other hand Private Placements are offered to select set of people. By definition Private Placement is an issue that is offered to less than 50 investors excluding qualified institutions and employee stock option.
+
+### Issue Price
+Since 1992, Indian primary market enjoys the benefits of free pricing. The issuer can determine the price in consultation with primary merchant banker. Also, there is no price formula stipulated by SEBI. However, the issuer and merchant banker should give a full disclosure of all the parameters considered for arriving at the issue price.
+
+There are two types of issue.
+1. Company and Lead Merchant Banker fix a price, called fixed price
+1. The company and the Lead Manager stipulate a floor price or a price band and leave it to the market forces to determine the final price
+
+The above second process is called **Book Building**. Nowadays, all issues are normally done through the book built route. However, the fixed price route has been kept open to allow small and medium enterprises to offer shares on the Small and Medium Enterprise platform of the exchanges.
+
+
+#### Price Discovery through Book Building Process
+Book Building is basically a process used in IPOs for efficient price discovery. It is a mechanism
+where, during the period for which the IPO is open, bids are collected from investors at
+various prices, which are above or equal to the floor price. The offer price is determined after
+the bid closing date.
+
+#### Key Aspects of Book Building Process
+In a Book building issue, the issuer is required to indicate either the price band or a floor price in the prospectus.
+
+The actual discovered issue price can be any price in the price band or any price above the floor price. This issue price is called **Cut-Off Price**.
+
+The issuer and lead manager decides this after considering the book and the investors' appetite for the stock.
+
+**Floor price** is the minimum price at which bids can be made.
+
+The prospectus may contain either the floor price for the securities or a **price band** within which the investors can bid. The spread between the floor and the cap of the price band shall not be more than 20%. In other words, it means that the cap should not be more than 120% of the floor price.
+
+The price band can have a revision and such a revision in the price band shall be widely disseminated by informing the stock exchanges, by issuing a press release and also indicating the change on the relevant website and the terminals of the trading members participating in the book building process.
+
+In case the price band is revised, the bidding period shall be extended for a further period of three days, subject to the total bidding period, not exceeding ten days.
+
+The company itself decides on the price or the price band, in consultation with Merchant Bankers. The minimum no of days for which the bid should remain open is 3 days. Individual investor can use the book building facility to make an application.
+
+How will the investor know whether the shares are alloted to them in an IPO or offer for sale?
+As per SEBI, within 4 days of closing of the issue, the basis for allotment should be completed. Within in next 1 days of the completion of the basis for allotment, the details of credit to DEMAT Account or Allotment Advise or dispatch of refund order need to be completed. So, investor should know within 5 working days for closure of the issue whether shares are alloted to him or not.
+
+How long does it take to get the shares listed after issue?
+It takes 6 working days after the closure of the book built issue.
+
+### Application Supported by Blocked Amount (ASBA)
+ASBA is an application containing an authorization to block the application money in the bank account for subscribing to an issue. If an investor is applying through ASBA then his application money shall be debited from investors' bank account only if his application is selected for allotment after the basis of allotment is finalised or the issue is with drawn or failed.
+
+Investors can apply in any public or rights issue by using their bank account. Investors submit the ASBA form available at the designated brances of the banks acting as Self Certified Syndicated Banks (SCSBs).
+
+Submissions are done by filling the details like name of the applicant, PAN number, DEMAT account number, bid quantity, bid price and other relevant details to their banking branch.
+
+An instruction to block the amount in their bank account to the bank is given. In turn the bank will upload the details in the bidding platform. Investors should ensure that the details filled in the form is correct. Otherwise, the application is liable to be rejected. From 1st January 2016, it is mandatory that all public issues are subscribed through ASBA only.
+
+### Role of Registrar
+The registrar finalises the list of allottees after removing invalid applications. It ensures that the corporate actions for crediting of shares to the DEMAT account of the applicant is done and dispatch of refund orders to those applicant are sent. The lead manager coordinates with registrar to ensure follow up so that the flow of applications from collecting bank branches, processing of the applications and other matters till the basis of allotment is finalized, dispatch of security certificates and refund orders completed and securities listed.
+
