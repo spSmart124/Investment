@@ -131,4 +131,3 @@ An instruction to block the amount in their bank account to the bank is given. I
 
 ### Role of Registrar
 The registrar finalises the list of allottees after removing invalid applications. It ensures that the corporate actions for crediting of shares to the DEMAT account of the applicant is done and dispatch of refund orders to those applicant are sent. The lead manager coordinates with registrar to ensure follow up so that the flow of applications from collecting bank branches, processing of the applications and other matters till the basis of allotment is finalized, dispatch of security certificates and refund orders completed and securities listed.
-

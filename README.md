@@ -7,3 +7,5 @@ You will learn basics of investment
 1. [Market Segments and Products](./Security%20Market%20Basic/market%20segments%20and%20products.md)
 1. [Securities Market Reforms](./Security%20Market%20Basic/securities%20market%20reforms.md)
 1. [Role of Primary Market](./Security%20Market%20Basic/primary%20market%20role.md)
+1. [Issue Price](./Security%20Market%20Basic/issue%20price.md)
+1. [Role of SEBI](./Security%20Market%20Basic/role%20of%20sebi.md)
