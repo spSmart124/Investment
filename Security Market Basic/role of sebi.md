@@ -1,0 +1,4 @@
+# Role of SEBI
+
+## Listing
+**Listing** means admission of securities of an issuer to trading privileges dealings on a Stock Exchange through a formal agreement. At the time of listing of securities of a company on a stock exchange, the company is required into a listing agreement with the exchange and specifies the term and conditions of the listing and the disclosure shall be made by the company on a continuous basis to the exchange. The prime objective of admission to dealings with the exchange is to provide liquidity and marketability to securities and also to provide a mechanism for effective control and supervision of trading. After the allotment on the listing day, a listing ceremony is performed after which the shares are open for trading. 
