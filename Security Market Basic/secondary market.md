@@ -186,3 +186,38 @@ Most bond and debenture issues are rated by specialized credit rating agencies. 
 * SMERA
 
 The yield on a bond varies inversely with it's safety rating or credit rating. The safer the instrument the lower the rate of interest offered. To aquire a securities in debt market you may subscribe to bond issued by government or corporate in Primary market. Alternatively, you may purchase the same from Secondary market.
+
+## Derivatives
+As the terms refers, the value of **Derivatives** is derived from it's underly assets like Bond, Share, Contract, Bullion, Live Stocks etc. It does not have any independent value.
+
+### Definition
+With Securities Laws (Second Amendment) Act,1999, Derivatives has been included in the definition
+of Securities. The term Derivative has been defined in Securities Contracts (Regulations) Act, as:-
+Derivative includes: -
+a. a security derived from a debt instrument, share, loan, whether secured or unsecured, risk
+instrument or contract for differences or any other form of security;
+b. a contract which derives its value from the prices, or index of prices, of underlying securities;
+
+### Types of Derivatives
+Below are the types of derivatives
+* Forward Contracts
+* Future Contracts
+* Options
+* Warrant
+
+#### Forward Contracts
+It is a customized contract between two entities, where settlement takes place on a specific date, in the future, at today's pre-agreed price.
+
+#### Futures Contracts
+It is an agreement between two parties to buy or sell an asset at a certain time in the future at a certain price. Futures contracts are specialized forward contracts, in the sense that, they are standardized exchange traded contracts, such as futures of Nifty 50 index.
+
+#### Option
+An option is a contract which gives right, but not obligation, to buy or sell the underlying on a stated date and at a stated price. It is executed on or before a future date
+
+Options are of two types
+* Calls: It gives the buyer the right to buy an underlying asset but not an obligation
+* Puts: It gives the buyer the right to sell an underlying asset but not an obligation
+
+
+#### Warrant
+Options generally have a term of upto 1 year. Maximum maturity of option in stock exchange in of 9 months. Longer dates options are called **Warrants** and are generally traded over the counter.
