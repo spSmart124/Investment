@@ -141,3 +141,48 @@ It is a risk management technique that mixes an wide variety of investments with
 * Mix of asset types reduces the impact of a decline in any one security
 * If stocks go down, bonds in the portfolio will maintain the balance
 * Reduce the risk of your entire portfolio getting affected by decline in any single asset class
+
+## Debt Instruments
+It presents a contract between lender and borrower in fixed terms about the periodicity of repayment, interest rate, and principal amount. In indian securities market, the debt instruments issued by State and Central Government are called **bonds**. While debt instruments issued by private sector are calleds **debentures**.
+
+Each debt instrument has 3 features.
+* Maturity
+* Coupon
+* Principal
+
+### Maturity
+It refers to the date on which it matures. Term-to-Maturity refers to the number of years remaining for the bond to mature.
+
+### Coupon
+It refers to the periodic interest payments that are made by the borrower to the lender. **Coupon rate** is the rate at which interest is paid and is usually represented as a percentage of the par value of a bond.
+
+### Principal
+It is the amount borrowed.
+
+```
+Coupon = Principal * Coupon Rate
+```
+
+## Debt Market Segments and Participants
+There are 3 main segments in debt market in India.
+* Government Securities
+* Public Sector Units (PSU) Bonds
+* Corporate Securities
+
+The main investors in Debt market are
+* Banks
+* Financial Institutions
+* Mutual Funds
+* Provident Funds
+* Insurance Companies
+* Corporates
+
+## Credit Rating Agencies
+Most bond and debenture issues are rated by specialized credit rating agencies. Credit rating agencies in India are.
+* CRISIL
+* CARE
+* ICRA
+* FitchRatins
+* SMERA
+
+The yield on a bond varies inversely with it's safety rating or credit rating. The safer the instrument the lower the rate of interest offered. To aquire a securities in debt market you may subscribe to bond issued by government or corporate in Primary market. Alternatively, you may purchase the same from Secondary market.
