@@ -218,6 +218,97 @@ Options are of two types
 * Calls: It gives the buyer the right to buy an underlying asset but not an obligation
 * Puts: It gives the buyer the right to sell an underlying asset but not an obligation
 
+##### Types of Options
+* Europian Options
+* American Options
+* Bermuda Options
+
+These options are differentiated based on their expiry date. **Europian options** can only be excercised on the expiry date. ** American Options** can be excercised on any date from the date of purchase upto and including the date of expiry.
+
+**Bermuda option** is a type of exotic option that can be excercised only on predetermined dates, typically every month. It is a combination of Europian and American option. It is excersiable at the date of expiration and on certain specified dates between purchase date and expiration date but not on all dates.
+
+The price paid by the buyer for aquiring the right to buy or sell an option is called **Option Premium**. Option premiums are always paid upfront.
 
 #### Warrant
-Options generally have a term of upto 1 year. Maximum maturity of option in stock exchange in of 9 months. Longer dates options are called **Warrants** and are generally traded over the counter.
+Options generally have a term of upto 1 year. Maximum maturity of option in stock exchange in of 9 months. Longer dated options are called **Warrants** and are generally traded over the counter.
+
+
+### Types of Derivates in NSE
+Below are the types of derivatives traded in NSE.
+* Equity
+* Commodity
+* Currency
+* Interest Rate
+
+#### Equity
+Started since launch of popular index derivatives Nifty 50, NSE provides a variety of offerings. It also provides trading in futures and options contracts on 9 major indices and more than 100 securities. Derivatives are offered on below products.
+* Nifty 50 Index
+* Nifty IT Index
+* Nifty Bank Index
+* Nifty Midcap 50 Index
+* Nifty Infrastructure Index
+* Nifty PSE Index
+* Individual Securities
+
+#### Commodity
+It commenced commodity derivates with launch of bullion futures. It offers commodity derivates on gold and silver.
+
+#### Currency
+**Currency Derivatives** segment of NSE provides trading in derivatives instruments like
+* Currency Futures on 4 currency pairs
+* Currency Options
+* Cross currency futures and options contracts
+
+Currency derivatives are available on 4 currency pairs involving Indian ruppee.
+* US Dollars (USDINR)
+* Euro (EURINR)
+* Great Britain Pound (GBPINR)
+* Japanese Yen (JPYINR)
+
+Cross currency Futures & Options contracts available for trading are
+* EUR - USD
+* GBP - USD
+* USD - JPY
+
+#### Interest Rate
+Interest Rate Futures segment of NSE offers two segments
+* NBF II
+* GOI Treasury Bill
+
+These are namely Futures on GOI Securities for 6 years, 10 years, and 13 years NBF II and 91 days GOI (Government of India) T-Bill
+
+
+### Semi-annual Coupon
+The NSE Bond Futures 2 or NBF 2 contracts are available for trading based on Government of India
+(GOI) security, of face value 100, with semi-annual coupon and residual maturity between 4 and 8
+years, 8 and 11 years and 11 and 15 years on the day of expiry of IRF contract, as decided by stock
+exchanges in consultation with FIMMDA.
+Three Serial monthly contracts followed by three quarterly contracts of the cycle
+March/June/September/December will be made available along with functionality for spread
+contract trading on the NSE electronic trading platforms.
+
+
+### Commodity Exchange
+A Commodity Exchange is an association, or a company or any other body corporate organizing futures trading in commodities.
+
+It is an organized marketplace where systematic trading of commodities and derivatives contracts on commodities take place. It is traded similar to stock exchange with a difference being the products involved are commodities like gold and silver instead of stocks.
+
+The major commodities exchange in India are
+* Multi Commodities Exchange (MCXSX)
+* National Commodities & Derivatives Exchange Ltd. (NCDEX)
+* Indian Commodity Exchange Ltd. (ICEX)
+
+NSE also facilitates exchange on Commodities Futures.
+
+### Commodity
+According to FCRA, 1952, commodities are movable property of any kind other than actionable claims, money and securities. Futures Commodities tadings are allowed on such commodities that are permitted by central government. Under FCRA, all products of agricultural origin including plantation, mineral and fossil origin are allowed for future trading.
+
+Commodities can be
+* Mineral and Fossil Origin: Crude Oil, Natural Gas, Zinc, Nickel
+* Agricultural Commodities: Rapeseed, Cotton, Wheat, Soyabean
+* Precious Metal: Gold, Silver
+
+### Commodity Vs Financial Derivatives
+Derivative Contract remains the same whether the underlying is a commodity or a financial asset.
+
+In case of financial derivatives, most of the contracts are cash settled. Financial assets are not bulky and do not need special facility for storage. In case of commodity derivatives, warehousing is required due to bulky nature of commodity assets. Concept of varying quality of assets holds in case of commodities.
