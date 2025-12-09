@@ -25,3 +25,13 @@ Trustees appoint **Asset Management Company (AMC)**. It performs below actions.
 * manages the investors' money
 * has to be approved by SEBI
 * functions under the supervision of its Board of Directors, and the direction of the Trustees and SEBI
+
+### Custodian
+Custodian is appointed by board of Trustees and holds the assets of the mutual fund. As the custody of the asset is separated from management it protects the investors from fraud and misappropriation. Role of a custodian are
+* safekeeping of physical securities
+* getting information on the rights, bonus and dividends declared by companies the fund has invested in
+* participate in a clearing and settlement system on behalf of mutual funds
+* delivery and receipt of units of mutual fund
+
+### Registrars and Transfer Agents (RTAs)
+It plays the important role of maintaing investor records. It converts the NFO forms, redemption forms from physical to an electronic form. It also decides on the number of units an investor gets, price of units, applicable NAV, the amount an investor gets at redemption, exit load, folio number etc.
