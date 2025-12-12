@@ -8,8 +8,8 @@ After the 3-tier structure is in place, the AMC launches new scheme called **New
 1. Have a bank account and a demat account for incoming and outgoing of money and units
 1. Fill the NFO form available online or paper
 1. Read the offer document (OD) carefully
-    * If not the full OD then you must read the KIM (Key Information Memorandum) which is available with application form
+    * If not the full OD then you must read the KIM (Key Information Memorandum) which is available with the application form
 1. The filled form along with check is sent to RTA
 1. RTA forwards the check to a bank where the mutual fund holds an account and allocates unit
 
-In an online system the complete process of filling form, payment, allocation of units are all carried out electronically.
+In an online system, the complete process of filling form, payment, allocation of units are all carried out electronically.

@@ -21,3 +21,4 @@ You will learn basics of investment
 1. [Mutual Funds and their Advantages](./Mutual%20Fund%20Beginners/mutual%20fund%20and%20their%20advantages.md)
 1. [Structure in India](./Mutual%20Fund%20Beginners/stucture%20in%20India.md)
 1. [Investment in New Fund Offering](./Mutual%20Fund%20Beginners/new%20fund%20offering.md)
+1. [Setting up and Managing Mutual Fund](./Mutual%20Fund%20Beginners/setting%20up%20and%20managing%20mutual%20fund.md)
