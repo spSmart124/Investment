@@ -22,3 +22,5 @@ You will learn basics of investment
 1. [Structure in India](./Mutual%20Fund%20Beginners/stucture%20in%20India.md)
 1. [Investment in New Fund Offering](./Mutual%20Fund%20Beginners/new%20fund%20offering.md)
 1. [Setting up and Managing Mutual Fund](./Mutual%20Fund%20Beginners/setting%20up%20and%20managing%20mutual%20fund.md)
+1. [Rights and Obligations of Investors](./Mutual%20Fund%20Beginners/investors%20rights%20and%20obligations.md)
+1. [Products and Features of Funds](./Mutual%20Fund%20Beginners/products%20and%20features.md)
