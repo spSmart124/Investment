@@ -59,4 +59,43 @@ Based on type of involvement of fund manager, funds are of two types.
 
 
 ### Exchange Traded Funds (ETFs)
-These funds are passive funds. The portfolio of this fund replicates an equity market index or a commodity index. The units are offered in a New Fund Offer (NFO). Post NFO, they are open for sell and purchase in a stock exchange. The units are credited to investor's demat account. Post NFO transactions are performed to trading and settlement platform of stock exchange. The ETF units are traded at realtime prices which are linked to changes in underlying index. 
+These funds are passive funds. The portfolio of this fund replicates an equity market index or a commodity index. The units are offered in a New Fund Offer (NFO). Post NFO, they are open for sell and purchase in a stock exchange. The units are credited to investor's demat account. Post NFO transactions are performed to trading and settlement platform of stock exchange. The ETF units are traded at realtime prices which are linked to changes in underlying index.
+
+### Equity-Oriented Funds
+Equity fund account for around 40% of total AUM (Assets under management) in mutual fund.
+
+Equity schemes are those scheme which have investment objectives to invest largely in equity shares and equity-related investments like convertible debentures. Investment object of such funds is to seek capital appreciation through investment in this growth asset.
+
+Fund manager perform research and identify companies with good future prospects and invest in the shares of such companies. Prices of listed securities fluctuate based on liquidity, international scenario and numerous other factors. Therefore, investment in equity funds carries higher risk. Investors should understand the features of equity investments in terms of risk and return before investing.
+
+#### Definition
+Equity-Oriented schemes are funds which invest investors' money in equity and related instruments of companies. Secion 115T of the Income Tax Act, 1961 lays down that equity oriented funds means such fund where the investible funds are invested by way of equity shares in domestic companies to the extent of more than 65% of the total proceeds of such fund.
+
+In case of equity funds, investors need not pay long term capital gains upto 1 lakh earned by them. Hence, it is important that the investment norm is met by the fund.
+
+#### Types of Funds
+There are various types of equity funds are
+* Index Funds
+* Diversified Large Cap Funds
+* Sector Funds
+* International Funds
+* Gold Funds
+* Fund of Funds
+
+Based on market capitalisation Equity-Oriented funds can also be classified as 
+* Large Cap Funds
+* Mid Cap Funds
+* Small Cap Funds
+
+Base on investment strategy of schemes, it  can be classified as
+* Index Funds
+* Sectoral Funds
+* Arbitrage Funds
+* Fund of Funds
+
+### Risk Pyramid
+Equity funds do not guarantee any minimum returns.
+
+Index Funds are least risky. Diversified large cap fund and Mid cap fund are riskier funds. Sector fund are highly risky funds. Refer to below depiction.
+
+![Risk Pyramid](../resources/risk_pyramid.png)
