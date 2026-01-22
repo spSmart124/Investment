@@ -146,3 +146,40 @@ Fund with least **Tracking Error** are
 ##### Solution Oriented Scheme
 * Solution-Oriented Schemes are those schemes with an investment objective directed towards a specific goal aimed in future.
 * For example, retirement solution or investments for children are called Solution Oriented Schemes.
+
+#### Types of Schemes Based on Market Capitalisation
+As you may already be aware, Cap or Market Capitalisation is the total value of a company based on the current market price of share multiplied by the no of share outstanding. Based on Cap companies are classified as.
+1. Large Cap Companies: Top 100 or 200 stocks which feature in Nifty 50
+1. Mid Cap Companies: Stocks below large cap which belong to mid cap segment
+1. Small Cap Companies: Stocks with market capitalisation of less than Rs. 5000 cr
+
+Large cap funds are those that have
+1. Sound businesses
+1. Strong management
+1. Globally competitive products
+1. Quick to respond to market dynamics
+
+Diversified large cap funds are considered as stable and safe. These stocks command high liquidity. However, equity funds are
+1. Risky asset class
+1. No guarantee for any type of fund
+1. Actively managed
+
+##### Actively Managed Funds
+Except index fund, all other funds are actively managed funds. They have higher expenses as compared to index funds. Fund manager invests in stock beyond the index. Any stocks that involve active decision making may incur higher expenses and hence higher risks. Risk level increases from Index Fund, Large Cap Fund, Mid Cap Fund to Small Cap Fund. The conclusion here are actively managed funds
+1. should deliver higher returns than the index
+1. investors must be compensated for higher risks
+1. studies have shown most actively managed funds are unable to beat the index returns on a consistent basis. There is no gurantee as to which actively managed fund will beat the index in a given year
+1. Index funds have grown exponentially in some countries due to the inconsistency of returns
+
+##### Mid Cap Funds
+* Invest in stocks belonging to the mid cap segment of the market
+* Many of these midcaps are said to be the 'emerging blue chips' or 'tomorrow's large caps'
+* There can be actively managed or passively managed mid cap funds. There are indices such as the Nifty MID 100 and Nifty Midcap 50 indices which track the midcap segment of the markets
+* There are some passively managed index funds investing in the Nifty MID 100 and Nifty Midcap 50 companies
+
+##### Sectoral Funds
+* Funds that invest in stocks from a single sector or related sectors are called Sectoral funds
+* Examples of such funds are Banking Funds, IT Funds, Pharma Funds, Infrastructure Funds, etc.
+* Regulations do not permit funds to invest over 10% of their Net Asset Value in a single company
+* This is to ensure that schemes are diversified enough and investors are not subjected to concentration risk
+* This regulation is relaxed for Sectoral funds and Index funds
