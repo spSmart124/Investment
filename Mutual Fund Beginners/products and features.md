@@ -183,3 +183,91 @@ Except index fund, all other funds are actively managed funds. They have higher 
 * Regulations do not permit funds to invest over 10% of their Net Asset Value in a single company
 * This is to ensure that schemes are diversified enough and investors are not subjected to concentration risk
 * This regulation is relaxed for Sectoral funds and Index funds
+
+#### Equity Schemes
+Various other types of **Equity Schemes** are
+1. Arbitrage Funds
+1. Multi cap Funds
+1. Quant Funds
+1. International Equities Funds
+1. Growth Schemes
+1. Equity Linked Savings Schemes (ELSS)
+1. Fund of Funds
+
+##### Arbitrage Funds
+* These funds invest in the cash and the derivatives market simultaneously
+* They take advantage of the price differential of a stock in the cash and derivative segment by taking opposite positions in the two markets
+* Examples of these types of funds are cash and stock futures
+
+##### Multi cap Funds
+* These funds can, theoretically, have a small cap portfolio today and a large cap portfolio tomorrow.
+* The fund manager has total freedom to invest in any stock from any sector.
+
+##### Quant Funds
+Quantitive models are used for stock selection and allocation of weights. Selection and allocation is based on company's
+* Size
+* Financial performance
+* Liquidity
+
+SID (scheme information document) - specifies the use of a quantitative model
+* Stock Price which includes parameters based on periodic moving average of price, market capitalisation
+* Financial parameters which are based on key indicators such as EPS, PE, PAT, EBDIT margins (historical and forecasted).
+
+##### International Equities Funds
+It invests in stocks of companies outside India. It can be
+* Fund of Funds - invests in other mutual funds
+* Fund which directly invests in overseas equities
+
+These funds can further be designed as
+* International Commodities Securities Fund
+* World Real Estate and Bank Fund
+
+##### Growth Schemes
+These schemes aim for capital appreciation by investing in growth funds. They focus on industries and specific companies experiencing revenue growth rather than companies that payout dividend. These companies are in growth phase so, requires a holding period of at least 5 to 10 years and thus a higher risk tolerance. Time horizon for return is medium to long term.
+
+###### Example
+PU Mutual fund is investing in growth companies. It's **investing objective** is invest in companies/stocks with high growth rates or above average potential. The fund manager will follow an active investment strategy and focus on rapid growth companies or sectors. The selection of stocks will be based on growth measures such as
+1. Enterprise value/EBITA
+1. Forward price/sales
+1. Discounted EPS (Earning Per Share)
+
+The primary focus of these companies is to identify high growth companies especially on sector witnessing above average growth. A combination of Top-Down macro analysis approach to identify sectors and Bottom-Up approach micro analysis to pick stocks within these sectors will be employed. Switch between companies and sectors is identified based on
+* Relative Valuations
+* Liquidity
+* Growth potential
+
+##### Equity Linked Savings Schemes (ELSS)
+These schemes invest in equity schemes where investors get tax benefit up to Rs. 1.5 lakhs under section 80C of the Income Tax Act. These are Open-Ended schemes with locking period of 3 years. These schemes are designed for dual purpose of equity investing as well as tax planning for the investor. On these schemes investors cannot get their money back before 3 years from the date of investment under any circumstances.
+
+##### Fund of Funds
+These funds do not invest directly in stocks or share. They invest in units of other mutual funds which perform well and give high returns.
+
+#### Growth and Value Investing
+##### Growth Investing
+* Investing in companies with high growth potential
+* Look for companies that are experiencing significant earnings or revenue growth
+* Investors look for growth momentum
+
+The risk of growth investing is that if growth momentum goes down slightly stock's price can go down rather fast
+
+##### Value Investing
+* A sector/stock is currently undervalued and market will eventually realize it's true value
+* Investors buy undervalued stock/sector and wait for value to move up and then exit
+* Investors look for mismatch between the current market price and the true value of the investment
+
+The risk of growth investing is that the investor may have to wait a really long time before the market values the investment correctly
+
+#### Contra Funds
+Contra fund follow a value investing approach. 
+
+##### Example
+When interest rate rise, people defer their purchases as the cost of borrowing increases. This affects bank, housing and auto sector. Stocks of these companies come down. Hence the fund manager will opine that when the interest rates come down these stocks will go up again. Thus, he will buy these stocks when nobody wants them. He will take a contrarian call. 
+
+#### Assets Under Management (AUM)
+AUM represents the money which is managed by a mutual fund in a scheme. Sum of AUMs of all schemes represents AUM of a fund house. Sum of AUMs of all fund houses represents industry AUM.
+
+```
+AUM = (Net Asset Value (NAV) of a scheme) x (Number of units issued by the scheme)
+```
+
+Change in AUM happens due to redemptions of inflows. If sharp market fall happens then NAV will move down. It leads to redemption pressure and AUMs may come down. If outlook is positive, it leads to inflow of funds leading to overall increase in the AUM. If the fund produces superior returns then the benchmark index it results into inflows into the scheme, leading to an increase in AUM.
