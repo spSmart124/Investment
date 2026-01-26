@@ -231,7 +231,7 @@ PU Mutual fund is investing in growth companies. It's **investing objective** is
 1. Forward price/sales
 1. Discounted EPS (Earning Per Share)
 
-The primary focus of these companies is to identify high growth companies especially on sector witnessing above average growth. A combination of Top-Down macro analysis approach to identify sectors and Bottom-Up approach micro analysis to pick stocks within these sectors will be employed. Switch between companies and sectors is identified based on
+The primary focus of these funds is to identify high growth companies especially on sector witnessing above average growth. A combination of Top-Down macro analysis approach to identify sectors and Bottom-Up approach micro analysis to pick stocks within these sectors will be employed. Switch between companies and sectors is identified based on
 * Relative Valuations
 * Liquidity
 * Growth potential
@@ -271,3 +271,82 @@ AUM = (Net Asset Value (NAV) of a scheme) x (Number of units issued by the schem
 ```
 
 Change in AUM happens due to redemptions of inflows. If sharp market fall happens then NAV will move down. It leads to redemption pressure and AUMs may come down. If outlook is positive, it leads to inflow of funds leading to overall increase in the AUM. If the fund produces superior returns then the benchmark index it results into inflows into the scheme, leading to an increase in AUM.
+
+### Net Asset Value (NAV)
+```
+Net Asset = (Market value of scheme assets) - (Market value of scheme liabilities)
+```
+
+```
+NAV = (Net Asset) / (No of units outstanding)
+```
+
+Formula for NAV is:
+
+```
+NAV = ((Market value of investments + receivables + accrued income + other assets) - (accrued expenses + other payables + other liabilities)) / No. of units outstanding as of valuation date
+```
+
+### Fund Fact Sheet
+Investor must monitor their investments regularly. This can be achieved by going through fund fact sheet. This is a monthly document which all mutual funds have to publish. It is an important document which provides below critical financial information.
+* AUMs of all it's schemes
+* Top holding in all the portfolio
+* Exit Load, minimum investment
+* Performance over 1, 3 and 5 years and also since launch
+* Comparison of scheme performance with benchmark index
+* Fund manager outlook
+* Portfolio comparison and composition
+* Expense ratio
+* Folio turn over
+* Risk adjusted returns
+* Equity or debt splits for schemes
+* YTM for debt portfolios
+
+Fund Fact Sheet example
+![Fund Fact Sheet 1](../resources/fund_fact_sheet_1.png)
+![Fund Fact Sheet 2](../resources/fund_fact_sheet_2.png)
+
+### Scheme Expenses
+There are two types of expense incurred by a scheme
+1. Initial Expenses
+1. Recurring Expenses
+
+#### Initial Expenses
+This expenses are incurred when NFO is made. It is borne by the AMC.
+
+#### Recurring Expenses
+These are expenses that are incurred regularly. It includes.
+1. Fees paid to trustees, custodians, auditor, registrar and transfer agents
+1. Selling and commission expenses
+1. Listing fees and depository fees
+1. Expenses related to investor communication
+1. GST
+
+#### SEBI Limits for Expenses
+The limits for expenses are laid down by SEBI.
+
+| Net Assets | Equity Schemes | Debt Schemes |
+| ---------- | -------------- | ------------ |
+| Upto Rs.100 Cr. | 2.5 % | 2.25 % |
+| Next Rs.300 Cr. | 2.25 % | 2.00 % |
+| Next Rs.300 Cr. | 2.00 % | 1.75 % |
+| Excess over Rs.700 Cr. | 1.75 % | 1.50 % |
+
+* Percentages to be calculated on the average daily net assets of the scheme.
+* The expense limits including management fees for index schemes, including Exchange Traded Funds, is 1.5% of average net assets.
+* Fund of funds scheme: Total expenses of the scheme
+should not exceed 2.50 per cent of the average daily net assets of the scheme.
+
+Some more costs or expenses charged to the scheme are:
+* Brokerage and transaction costs are included in the cost of investment, not exceeding 0.12% in case of cash market transactions.
+* 0.05% in case of derivatives transactions.
+* Expenses not exceeding 0.30% of daily net assets, if the new inflows are at least.
+    * (i) 30 per cent of gross new inflows in the scheme, or,
+    * (ii). 15 per cent of the average assets under management (year to date) of the scheme, whichever is higher.
+
+If inflows from such cities is less than the higher of sub-clause (i) or sub- clause (ii), such expenses on daily net assets of the scheme shall be charged on proportionate basis.
+* Additional expenses not exceeding 0.20 per cent of daily net assets of the scheme.
+
+Expenditure in excess of the limits specified shall be borne by the Asset Management Company (AMC) or by the trustees or by the sponsors.
+
+The AMC should launch new schemes under a single plan and ensure that all new investors are subject to a single expense structure. Investors, who have invested as per earlier expense structures will be subject to a single expense structure for all fresh subscription.
