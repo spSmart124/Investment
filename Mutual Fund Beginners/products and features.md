@@ -349,4 +349,43 @@ If inflows from such cities is less than the higher of sub-clause (i) or sub- cl
 
 Expenditure in excess of the limits specified shall be borne by the Asset Management Company (AMC) or by the trustees or by the sponsors.
 
-The AMC should launch new schemes under a single plan and ensure that all new investors are subject to a single expense structure. Investors, who have invested as per earlier expense structures will be subject to a single expense structure for all fresh subscription.
+The AMC should launch new schemes under a single  plan and ensure that all new investors are subject to a single expense structure. Investors, who have invested as per earlier expense structures will be subject to a single expense structure for all fresh subscription.
+
+### Expense Ratio
+Expense ratio is one of the most important aspects an investor needs to check before finalising a scheme. Expense ratio is the ratio of expenses incurred by a scheme to its Average Weekly Net Assets.
+* It indicates how much of investors' money is going for expenses and how much is getting invested.
+* This ratio should be as low as possible
+* Investors today have an option of investing through direct plans.
+* Since the direct plan do not entail distributor commissions, they may have a lower expense ratio.
+
+* Assume that a scheme has average weekly net assets of Rs 100 cr. and the scheme incurs Rs.1 cr. as annual expenses, then the expense ratio would be 1/100 = 1%.
+* In case this scheme's expense ratio is comparable to, or better than that of its peers, then this scheme would qualify as a good investment, based on this parameter only.
+* If this scheme performs well and its AUM increases to Rs. 150 cr. in the next year whereas its annual expenses increase to Rs. 2 cr, then its expense would be 2/ 150 = 1.33%.
+* It is not enough to compare a scheme's expense ratio with that of its peers. The scheme's expense ratio must be tracked over different time periods.
+* Ideally as net assets increase, the expense ratio of a scheme should come down.
+
+### Portfolio Turnover
+* Fund Managers churn their portfolio depending upon outlook.
+* The mandate of the scheme and the fund manager's outlook and style determine the churning.
+* Very high churning frequency leads to higher trading and transaction costs.
+* Portfolio Turnover is the ratio which helps us to find how aggressively the portfolio is being churned.
+* Churning has no impact on the Expense Ratio.
+* Transaction costs are included in the buying & selling price of the scrip by way of brokerage, STT, cess, etc.
+
+#### Definition
+* Portfolio Turnover is defined as 'Lesser of Assets bought or sold/ Net Assets'.
+* A scheme with Rs.100 crore as net assets sells Rs.20 crore of its investments. Thus its Portfolio Turnover Rate would be 20/100 = 20%.
+* If this scheme's net assets increase to Rs.120 crore and the fund manager decides to churn the entire portfolio by exiting all stocks, then the Portfolio Turnover would be 120/120 = 100%.
+* If the fund manager churns the entire portfolio twice in a single year then we would say that the Portfolio Turnover rate is 200% or that the portfolio is churned once every 6 months.
+* Liquid funds have very high portfolio turnover due to less maturity of the paper. Once the paper matures, the fund manager has to buy another security, thus churning the portfolio.
+
+#### Impact of AUM on Portfolio Turnover
+* The scheme's size, that is, the AUM can also have an impact on the performance of the scheme. In case the scheme performs well and thereby attracts a lot of money flow, it may happen that the fund manager may not be able to deploy that extra money successfully as he may not find enough opportunities.
+* Thus an increased fund size may result in lower returns. If the fund manager tries to acquire significantly large quantities of a stock, the buying pressure may lead to higher stock prices, thereby higher average cost for the scheme.
+* Besides, if the holdings by the scheme in any stock are huge, then exit may be difficult as selling from the scheme itself can put pressure on the prices. Thus, the first share may be sold at a higher price and as the supply increases the prices may fall, and the last share may get sold at a lower price.
+
+#### Cash levels in portfolios
+* The cash level is the amount of money the mutual fund is holding in cash, that is, the amount not invested in stocks and bonds but lying in cash.
+* If the scheme has higher than industry average cash levels consistently, more so in a bull market, it will lead to a inferior performance by the scheme than its peers. However, in a falling market, it is this higher cash level that will protect investor wealth from depleting.
+* Hence, whenever one is analyzing cash levels, it is extremely important to see why the fund manager is holding high cash levels. It may be so that he is expecting a fall therefore he is not committing large portions of monies.
+* It may be so in a bull market or a bear market. The strategy could be to enter once the prices correct. High cash levels can also be seen as a cushion for sudden redemptions and in large amounts.
