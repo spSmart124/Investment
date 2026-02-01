@@ -451,3 +451,116 @@ An investor can approach a trading member of NSE and enter into an agreement wit
 * Take care that you place the order completely.
 * Don't tell the broker to buy/sell according to his judgement.
 * Do not keep signed delivery instruction slips with the broker as there may be a possibility of misuse - It is similar to giving blank cheques to someone.
+
+### Real Estate Investment Trusts (REITs)
+Real Estate Investment Trusts (REITs) are similar to mutual funds.
+* Invest in real estate assets
+* Give returns to the investor based on the return from the real estate
+* Investment in real estate properties like offices, residential apartments, shopping malls, hotels, warehouses
+* Listed on stock exchanges
+* The investors can directly buy and sell units from the stock exchanges
+* Assets held by independent trustee on behalf of investor
+* Trustee to ensure compliance
+* Income from rentals and capital gains distributed as dividends
+* Money is raised through IPOs
+
+### Gold ETFs
+* Gold ETFs are special type of ETFs which invest in Gold and Gold related securities.
+* Gold ETFs give the investor an option to diversify his investments into a different asset class, other than equity and debt.
+* When other financial markets are weak, gold gives good returns.
+* It also enjoys the benefit of liquidity in case of an emergency.
+
+#### Disadvantages of Holding Physical Gold
+* Fear of theft
+* Payment of Wealth Tax
+* No surety of quality
+* Changes in fashion and trends
+* Locker costs
+* Lesser realization on remolding of ornaments
+
+#### Understanding G-ETFs
+G-ETFs is said to be a new age product designed to suite our traditional requirements. G-ETFs scores over all these disadvantages while at the same time retaining the inherent advantages of gold investing. In case of Gold ETFs, investors buy units, which are backed by Gold. Thus everytime an investor buy 1 unit of G-ETFs it is similar to an equivalent quatity of gold earmarked for him somewhere. So, his units are as good as gold.
+
+##### Example
+1 G-ETF = 1 gm of 99.5% pure Gold
+Buying 1 G-ETF unit 12 * 20 = 240 gm of Gold
+
+These units
+* can be used to buy physical gold and make ornaments as per the prevailing trends.
+* Transfer the units to his child's demat account as well.
+
+The investor will not have to pay any wealth tax on his holdings. There may be other taxes, expense to be borne from time to time, which investor needs to bear in mind while buying/selling G-ETFs
+
+##### Working of G-ETF
+* The G-ETF is designed as an open-ended scheme.
+* Investors can buy/sell units any time at prevailing market price.
+* In case of open ended funds, investors get units (or the units are redeemed) at a price based upon that day's NAV.
+* In case of ETFs, investors can buy (or sell) units at a price which is prevailing at that point of time during market hours.
+
+![G-ETFs during NFO](../resources/g_etfs_nfo.png)
+
+![G-ETFs on an ongoing basis](../resources/g_etfs_ongoing.png)
+
+#### Important Terms
+##### Cash Components
+The money which the AP deposits for buying the bundled ETF units is known as 'Cash Component'. This Cash Component is paid to the AMC.
+The Cash Component is not mandatory and is paid to adjust for the difference between the applicable NAV and the market value of the Portfolio Deposit.
+
+##### Creation Units
+The bundled units (which the AP receives on payment of Portfolio Deposit to the custodian and Cash Component to the AMC) are known as Creation Units. Each Creation Unit comprises of a pre-defined number of ETF Units. Each Creation Unit consists of a pre-defined number of G-ETF Units.
+
+### Sovereign Gold Bonds
+In October 2015 the Government of India has launched the Sovereign Gold Bonds (SGB) Scheme. SGBs can be bought initially through Stock brokers / Mutual Fund Distributors. SGBs are issued by the Reserve Bank of India on behalf of the Government of India and distributed through Agents like banks, designated post offices and Stock Holding Corp.
+
+#### Features
+* Provides benefits similar to investment in physical gold
+* Issued on payment of rupees and denominated in grams of gold
+* Can be held in demat and paper form
+* Can be used as collateral for loans and can be traded on stock exchanges
+* Comission would be 99 bps
+* Offer investors returns that are linked to gold price
+
+
+### Debt Funds
+#### Features
+* Funds which invest money in debt instruments such as short and long term bonds, government securities, T-bills, corporate paper, commercial paper, call money etc.
+* Lower fees, on average than equity funds, because of lower management costs.
+* Main investing objective - preservation of capital and generation of income. Performance against a benchmark is regarded as a secondary consideration.
+* Considered to be safer and less volatile which attracts investors.
+* Debt markets in India are wholesale in nature and hence retail investors generally find it difficult to directly participate in the debt markets.
+* Venturing into debt market investments is not common among investors.
+* Investors can however participate in the debt markets through debt mutual funds.
+
+#### Debt Paper
+Debt paper is issued by Government, corporates and financial institutions to meet funding requirements.
+
+It is a contract between lender and borrower. Here borrower is taking some money on loan and after sometime the lender will get the money back as well as some interest on the money lent.
+
+Interest rate can be
+* Fixed: Fixed throughout the tenure of the loan
+* Floating: Certain percentage over the benchmark
+
+#### Characteristics of Debt Paper
+##### Face Value
+* Face Value represents the amount of money taken as loan.
+* It is that amount which is printed on the debt paper.
+* The borrower issues this paper, he takes a loan from the investor as per this Face Value.
+* It means, if the Face Value is Rs. 1000, the borrower will take a loan of Rs. 1000 from the investor and give the paper to the investor.
+
+##### Coupon
+* The Coupon represents the rate of interest that the borrower will pay on the Face Value.
+* If the coupon is 8% for the debt paper having face value of Rs. 1000, it means that the borrower will pay Rs.80 (8/100 * 1000) every year to the investor as interest income.
+* Note: The Face Value and the Coupon of a debt paper never change.
+* Such instruments are also known as Fixed Income Securities.
+
+##### Maturity
+Duration for which a borrower has taken loan is called 'Maturity'.
+
+For example
+Consider a debt paper having:
+Face value = Rs. 1000
+Coupon = 8%
+Maturity = 10 years
+For 10 years the investor will receive Rs. 80 as interest income and after 10 years, he will get his Principal of Rs.1000 back.
+OR
+The borrower has taken a Rs. 1000 loan, for a period of 10 years, and he has promised to pay 8% interest annually.
