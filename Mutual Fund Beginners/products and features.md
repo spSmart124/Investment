@@ -564,3 +564,93 @@ Maturity = 10 years
 For 10 years the investor will receive Rs. 80 as interest income and after 10 years, he will get his Principal of Rs.1000 back.
 OR
 The borrower has taken a Rs. 1000 loan, for a period of 10 years, and he has promised to pay 8% interest annually.
+
+#### Interest Rate Risk
+* Interest Rate Risk can be reduced by adjusting the maturity of the debt fund portfolio.
+* If the investor expects interest rates to rise, he would be better off giving short-term loans.
+* As interest rates would have risen by then, he would be able to give another loan, a short term loan, but this time at the new higher interest rates.
+* Interest rate risk can be partly mitigated by investing in Floating Rate Instruments.
+
+![Interest Rate Risk Example](../resources/interest_rate_risk_example.png)
+
+#### Credit Risk
+**Credit Risk** or risk of default is the situation where the borrower fails to honor either one or both of his obligations of paying regular interest and returning the principal on maturity.
+
+A bigger threat is that the borrower does not repay the principal. This can happen if the borrower turns bankrupt.
+
+This risk can be taken care of by investing in paper issued by companies with very high Credit Rating.
+
+* Different borrowers have different levels of credit risks associated. Investors would like to know the precise risk level of a borrower.
+* This is done by a process known as Credit Rating.
+* This process is carried by professional credit rating agencies like CRISIL, ICRA etc. registered with and regulated by SEBI.
+
+The credit rating process takes into account different financial parameters of a company like
+* Profitability
+* Cash Flows
+* Debt
+* Industry Outlook
+* Impact of Economic Policies
+
+##### CRISIL's Rating Symbols
+* AAA: Implies that investors can safely expect to earn interest regularly and the probability of default on principal is as good as NIL.
+* BBB: These instruments are safe, however, in case environment changes, there is a probability that the coupon payment and principal repayment ability may be hampered.
+
+The above 2 ratings represent the highest and lowest ratings of investment grade securities.
+
+Credit rating <BBB implies that the instruments are Speculative grade and must be traded with caution.
+
+Credit rating D means that the company is already in default.
+
+#### Debt Instruments Pricing
+Relationship exists between:
+* Yields and bond prices
+* Years to maturity and impact of change in interest rates
+* Credit risk and yields
+
+We need to undestand these relationships before we start investing in debt funds.
+
+The price of an instrument (equity / bond) = Present Value of its future cash flows. There is no ambiguity about future cash flow in case of a debt intrument as against equity.
+
+* Future cash flows for bonds are the periodic coupon payments that the investor will receive.
+* Future cash flows for equities are the dividends that the investor may receive.
+* Bond coupon payments are known at the beginning.
+* Thus, there is no confusion about what the present value of each future cash flow should be.
+
+##### Compounding & Discounting
+Let's undestand the concept of compounding. Suppose a bank gives an interest rate of 8% for 10 years. If an investor invest Rs. 100 then after 10 years it's value will be based on below compounding formula.
+
+| Principal (P) | Rate of Interest (r) | Maturity (t) |
+| ------------- | -------------------- | ------------ |
+| 100 | 8% | 10 |
+
+```
+A = P * (1 + r)^t
+```
+
+A = 215.89
+
+We can reverse this process to find out P to arrive at a value of A.
+
+```
+P = A / (1 + r)^t
+```
+
+This process of arriving at P based on a known value of A is called discounting.
+
+* Process of discounting is exact opposite of compounding.
+* Used in bond markets to find the price of a bond.
+* Bond Price = Sum of Present values of all future cash flows
+* The r is substituted by the Yield To Maturity (YTM) while calculating the PV of bond's future cash flows.
+
+Yield To Maturity (YTM) is that rate which the investor will receive in case:
+* He holds a bond till maturity
+* He reinvests the coupons at the same rate
+
+YTM to Bond Price Relationship
+* A measure of the return of the bond.
+* A way to measure the total amount of money one would make on a bond.
+* Expressed as a percentage-an annual rate of return.
+* The price of a bond is the present value of future cash flows.
+* If all the present values go down (due to increase in YTM), then their sum will also go down.
+
+So, as interest rate goes up bond prices come down.
