@@ -654,3 +654,102 @@ YTM to Bond Price Relationship
 * If all the present values go down (due to increase in YTM), then their sum will also go down.
 
 So, as interest rate goes up bond prices come down.
+
+###### Yield to Maturity (YTM)
+| Bond Purchased | Coupon Rate | Maturity Time |
+| -------------- | ----------- | ------------- | 
+| Rs. 950 | 8% | 3 years |
+
+It's Par value = Rs. 1000
+
+Current earning = Rs.50 (Rs.1000 - Rs.950)
+
+| Dates | Cash flows |
+| ----- | ---------- |
+| 1-Jan-10 | (950) |
+| 31-Dec-10 | 80 |
+| 31-Dec-11 | 80 |
+| 31-Dec-12 | 1080 |
+
+
+```
+YTM = XIRR(Dates, Values)
+```
+
+```
+YTM
+10.01%
+```
+
+###### Explanation
+* Interest earned after 1 year, gets reinvested in the FD for the remaining 2 years @ 8%.
+* Similarly the interest earned after 2 years (Interest on the initial investment plus the interest earned on the interest reinvested after 1 year) is again reinvested in the FD at the same rate of 8% for the remaining 1 years, and so on.
+
+###### Important Points
+* True for bank FDs, where we get the benefit of cumulative interest.
+* For bonds, the coupon (interest income) is a cash outflow every year and not a reinvestment as in case of FDs.
+* Even if the investor receives the coupon as a cash outflow, and intends to reinvest the same, there is no guarantee that for 10 years he will be able to reinvest the coupon, each year @ 8%.
+
+##### Interest Rate and Bond Price relationship
+As the interest rate go up, bond price come down.
+
+![Example 1](../resources/interest-rate-bond-price-relation-1.png)
+![Example 2](../resources/interest-rate-bond-price-relation-2.png)
+
+##### Relationship between Interest Rate and Debt Mutual Funds
+| Interest Rate | Price of debt Instrument | NAV of Mutual Fund |
+| ------------- | ------------------------ | ------------------ |
+| Decrease | Increase | Increase |
+| Increase | Decrease | Decrease |
+
+#### Debt Mutual Fund Schemes
+###### Types
+There are various **Debt Mutual Fund Schemes**
+* Fixed Maturity Plans
+* Capital Protection Funds
+* Gilt Funds
+* Balanced Funds
+* Monthly Income Plans
+* Child Benefit Plans
+
+###### Fixed Maturity Plans
+* FMPs are essentially close ended debt schemes.
+* The money received by the scheme is used by the fund managers to buy debt securities with maturities coinciding with the maturity of the scheme.
+* Investors must look at the portfolio of FMPs before investing.
+* Indicative yield is the return which investors can expect from the FMP.
+* Regulations do not allow mutual funds to guarantee returns.
+
+Note: The indicative yields are pre-tax and investors will get lesser returns after they include the tax liability.
+
+###### Capital Protection Funds
+Capital Protection Funds are close ended funds which invest in debt as well as equity or derivatives.
+This scheme invests some portion of investor's money in debt instruments, with the objective of capital protection. The remaining portion gets invested in equities or derivatives instruments like options. This component of investment provides the higher return potential.
+
+Note: Although the name suggests 'Capital Protection' but there is no guarantee that at all times the investor's capital will be fully protected.
+
+###### Gilt Funds
+* Gilt Funds invest only in securities issued by the Government.
+* This can be the Central Govt. or even State Govts.
+* Gilt funds are safe to the extent that they do not carry any Credit Risk.
+
+Note: If one invests in Government Securities, interest rate risk always remains
+
+###### Balanced Funds
+* Balanced funds invest in debt as well as in equity instruments.
+* These are also known as hybrid funds.
+* Balanced does not necessarily mean 50:50 ratio between debt and equity.
+
+Note: From taxation point of view, it is important to note that how much portion of money is invested in equities and how much in debt.
+
+###### Monthly Income Plans
+* Monthly Income Plans (MIPs) are hybrid funds.
+* They invest in debt papers as well as in equities.
+* The objective of these schemes is to provide regular income to the investor by paying dividends.
+
+Note: Investment in the debt portion provides the monthly income whereas investment in the equities provides the extra return.
+
+###### Child Benefit Plans
+* Child Benefit Plans are debt oriented funds, with very little component invested into equities.
+* The objective of this plan is capital protection and steady appreciation as well.
+
+Note: Parents can invest in these schemes with a 5-15 year horizon, 3 so that they have adequate money when their children need it for meeting expenses related to higher education.
