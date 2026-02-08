@@ -24,3 +24,4 @@ You will learn basics of investment
 1. [Setting up and Managing Mutual Fund](./Mutual%20Fund%20Beginners/setting%20up%20and%20managing%20mutual%20fund.md)
 1. [Rights and Obligations of Investors](./Mutual%20Fund%20Beginners/investors%20rights%20and%20obligations.md)
 1. [Products and Features of Funds](./Mutual%20Fund%20Beginners/products%20and%20features.md)
+1. [Liquid Funds](./Mutual%20Fund%20Beginners/liquid%20funds.md)
