@@ -76,3 +76,23 @@ Rs. 3.5 have got accrued. So, the current book value is.
 91 + 3.5 = 94.5
 ```
 
+## Floating Rate Schemes
+Floating rate schemes are schemes where the debt paper has a Coupon which keeps changing as per the changes in the interest rates. Thus there is no price risk involved in such paper.
+
+* When interest rates go up, bond prices go down. However, if the rates increase and so also the coupon changes and increases to the level of the interest rates.
+* There is no reason for the price of the paper to fall, as the investor is compensated by getting higher coupon, in line with the on going market interest rates.
+
+## Portfolio churning
+* A liquid fund will constantly change its portfolio.
+* The fund manager will use the cash to buy new securities and hence the portfolio will keep changing constantly.
+* Liquid Funds will have an extremely high portfolio turnover.
+* Liquid Funds see a lot of inflows and outflows on a daily basis.
+* The back end activity for a liquid fund must be quite hectic due to the large sizes of the transactions and also due to the large volumes.
+
+## Stress Testing of Assets
+Following practices are applied to ensure that the portfolio of liquid funds and money market funds is sound and any early warnings can be identified.
+* AMCs should have stress testing policy
+* Funds in liquid funds should be tested on risk parameters: Interest rate risk, Credit risk, Liquidity & Redemption risk
+* Evaluate impact of the various risk parameters
+* Policy should be reviewed by the Board of the AMC and Trustees
+
