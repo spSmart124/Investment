@@ -107,4 +107,66 @@ In case investments are not marked to market, then the value of investment portf
 Valuing a company at it's aquisition cost of Rs. 30 has no meaning if the price has appreciated to Rs. 100. In case there is a scheme to sell the share then at that time then it would recover Rs. 100 not Rs. 30. So, when NAV captures the movement of shares from Rs. 30 to Rs. 100 then it is meaningful for the investors. 
 
 * Marking to market helps investors buy and sell units of a scheme at fair prices, which are determined based on transparently calculated and freely shared information on NAV
-* This mark-to- market based NAV helps in evaluating the performance of the scheme/fund manager.
+* This mark-to-market based NAV helps in evaluating the performance of the scheme/fund manager.
+
+### Sale Price and Repurchase Price
+An unique feature of open-ended scheme is that it can keep on aquiring new units from a scheme called **Sale Transaction** or keep selling units back to the scheme called **Repurchase Transaction**.
+
+Earlier, scheme had the option to keep **Sale Price** more than the NAV and **Repurchase Price** less than NAV. These differences are called **Entry** and **Exit** Loads respectively. These loads represent the fee collected to join or leave a scheme.
+
+```
+Entry Load = Sale Price - NAV
+```
+
+```
+Exit Load = Repurchase Price - NAV
+```
+
+Entry load is no longer permitted therefore, the Sale Price is same as the NAV.
+
+#### Example
+The NAV of a scheme was Rs 22.00 per unit
+The entry load charge was of 1 percent
+Sale Price would be Rs 22.00 + 1 percent on Rs 22 as Rs 22.11
+NAV of a scheme is Rs. 22.00 per unit
+Exit load charge is of 1 percent
+Re-purchase Price would be Rs. 22 minus 1 percent on Rs. 22 as Rs. 21.78
+
+### Contingent Deferred Sales Charge
+Schemes can also adjust the load in case investors want to re-purchase the units. Investors will be given concession to hold their units for longer period of time.
+
+#### Example
+If an investor holds money for 1 year exit load will be 4%. If an investor holds money for 2 years exit load will be 3%.
+
+
+This kind of exit load structure is call **Contingent Deferred Sales Charge (CDSC)**.
+
+Earlier, different types of investors were charged different exit load even under the same scheme. Also, the money collected were available for the AMC to bear expenses.
+
+#### Current Situation
+* SEBI Norms: No Entry Loads -> Sale Price = NAV
+* Exit loads charges same for all the unit holders.
+* Concession may be given considering future investments.
+* This uniformity among unit holders will be maintained at portfolio level.
+* No exit load charges on units allotted upon reinvestment of dividend and bonus units.
+* Contingent Deferred Sales Charge (CDSC) and exit loads not available for the AMC to bear selling expenses.
+* Investor will pay commission to distributors directly.
+
+### Transaction Charges
+SEBI has introduced transaction charge for mutual fund distributors to increase the reach of mutual fund products. This is introduced to cater to people having small savings potential or to people in urban area or smaller towns.
+
+SEBI allows a transaction charge for per subscription of Rs. 10000/ or above to be paid to distributors of the mutual fund products. This is to help people with small saving potential and to spread awareness about mutual fund schemes. There will be no transaction charges on direct investment.
+
+The transaction charge if any will be deducted from subscription amount and will be paid directly to the distributor. The rest amount will be invested in the scheme.
+
+| Type of Investor |Transaction Charges (Rs.) (for purchase/subscription of Rs. 10,000 and above) |
+| ---------------- | ---------------------------------------------------------------------------- | 
+| First time mutual fund investor | Rs. 150/- |
+| Investor other than first time mutual fund investor | Rs. 100/- |
+
+
+For example if an investor invests Rs. 35,000 at NAV of Rs. 45.78.
+Assuming investment from a first-time mutual fund investor, applicable transaction charge is Rs. 150.
+
+Number of units allotted would be (Rs. 35,000 - Rs. 150) Rs. 45.78 = 761.25.
+
