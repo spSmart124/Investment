@@ -170,3 +170,74 @@ Assuming investment from a first-time mutual fund investor, applicable transacti
 
 Number of units allotted would be (Rs. 35,000 - Rs. 150) Rs. 45.78 = 761.25.
 
+### Valuation of Securities
+#### Fees Expenses and Charges
+**Investment and Advisory Fees** are the expenses or fees charged to the scheme. The details of such expenses are provided in the **Offer Document**.
+
+There are two types of important expenses that are involved in creating and managing a mutual fund.
+
+**Initial Issue Expenses** is incurred in an NFO at the time of launching a scheme. It is a one-time expense. AMC bears this expense.
+
+**Recurring Expenses** is a fund running expense. It is collected to manage the money invested by the investors. It is added to the scheme.
+
+As higher recurring expenses had the effect of reducing NAV, SEBI has set the limits to such expenses.
+
+#### List of identified expenses
+* Fees of various service providers, such as Trustees, Registrar & Transfer Agents, Custodian, & Auditor
+* Listing fees and Depository fees
+* Brokerage and transaction cost
+* Insurance premium paid by the fund
+* Marketing and selling expenses including scheme advertising and commission to the distributors
+* Winding up costs for terminating a fund or scheme
+* Expenses on statutory investor communication, fund transfer from location to location, providing account statements and dividend redemption cheques / warrants
+* Gold ETFs -> Cost of storage and handling of gold; Capital protection funds -> Cost of credit rating; Real estate mutual funds -> Cost of insurance premium and maintenance of real estate assets
+
+#### List of charges which cannot be imposed on the scheme
+* Penalties and fines for infraction of laws.
+* Interest on delayed payment to the unit holders.
+* Legal, marketing, publication and other general expenses not attributable to any scheme(s).
+* Fund Accounting Fees.
+* Expenses on investment management/general management.
+* Expenses on general administration, corporate advertising and infrastructure costs.
+* Depreciation on fixed assets and software development expenses.
+
+#### Recurring Expense Limits
+The total expense of the scheme apart from issue or redemption expense, irrespective of whether those charges are initially borne by the asset management company or the mutual fund in addition to the investment management and advisory fee have following limits:
+* In case of a fund of funds scheme, the total expenses of the scheme including weighted average of charges levied by the underlying schemes shall not exceed 2.50 percent of the daily net assets of the scheme.
+* In case of an index fund scheme or exchange traded fund, the total expenses of the scheme (including investment and advisory fees) shall not exceed 1.5 percent of the daily net assets.
+* In case of any other scheme, SEBI has stipulated the following annual limits on recurring expenses (including management fees). However, the limit for the schemes investing in bonds shall be lesser by at least 0.25 percent of the daily net assets outstanding in each financial year.
+
+| Daily Net Assets (Rs crore) | Equity Schemes | Debt Schemes |
+| --------------------------- | -------------- | ------------ |
+| On the first Rs. 100 crore of the daily net assets | 2.50 percent | 2.25 percent |
+| On the next Rs 300 crore of the daily net assets | 2.25 percent | 2.00 percent |
+| On the next Rs 300 crore of the daily net assets | 2.00 percent | 1.75 percent |
+| On the balance of the assets | 1.75 percent | 1.50 percent |
+
+Expenditure in excess of the said prescribed total expense ratio limit has to be borne by the AMC or the trustee or sponsors.
+
+#### Disclosure of Total Expense Ratio (TER)
+On a daily basis AMCs should publish TER under separate head, Total Expense Ratio (TER) for Mutual Fund Scheme, both scheme wise and date wise.
+This should be made available to investors in the AMFI website in a downloadable spreadsheet format.
+
+Any changes in base TER e.g. TER eliminating previously mentioned additional expenses and GST on investment and advisory fees in comparison to earlier base TER charged to any schemes needs to be informed to the investors via email or SMS at least 3 working day prior to affecting such changes. But in case any drop in TER due to many regulatory requirements issuance of advance notice to the investor would not be required. But drop in TER shall be informed to the investor via email or SMS and the same shall be update in the website.
+
+The discussed changes in the base TER should be communicated to the Board of Directors of AMC along with the reason. Every quarter any change in TER with reason should be communicated to the Trustees.
+
+#### Goods and Services Tax (GST)
+* GST on fees paid, on investment management and advisory fees shall be charged to the scheme in addition to the overall limits specified earlier.
+* GST on fees other than investment and advisory fees shall be charged to the scheme within the maximum limit of TER.
+* GST on exit load, if any, shall be deducted from the exit load and the net amount shall be credited to the scheme.
+* GST on brokerage and transaction cost paid for execution of rade, if any, shall be within the limit of TER.
+
+#### Fees and Expenses
+Mutual Funds or AMCs shall launch new scheme under a single plan and ensure that ensure that all new investors are subject to a single expense structure.
+
+Investors who have already invested, Old Investors, per earlier expense structure based on amount of investment on different plans such as retail, institutional, and super institutional investors shall be subject to a single expense structure for fresh subscriptions. These plans will continue till such investors remain invested in the plan.
+
+Also investor has the option to invest through direct plan. Since direct plan do not entail distributor commission they may incur lower expense ratio.
+
+#### True and Accrued Income and Expenses
+In the calculation of net assets, investments are taken at their market value. It ensures that sale and re-purchase transactions are effected at the true worth of the unit, along with the gains on the investment portfolio. The income and expense are calculated on the basis of accrual principle.
+
+Valuation Gains will translate to Capital Gains only when the portfolio is sold.
