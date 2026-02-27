@@ -241,3 +241,36 @@ Also investor has the option to invest through direct plan. Since direct plan do
 In the calculation of net assets, investments are taken at their market value. It ensures that sale and re-purchase transactions are effected at the true worth of the unit, along with the gains on the investment portfolio. The income and expense are calculated on the basis of accrual principle.
 
 Valuation Gains will translate to Capital Gains only when the portfolio is sold.
+
+#### Dividends & Distributable Reserves
+Dividends can be paid out of distributable reserves based on below considerations:
+* All the profits earned (based on accrual of income and expenses) are treated as available for distribution.
+* Valuation gains are ignored. But valuation losses need to be adjusted against the profits.
+* That portion of sale price on new units, which is attributable to valuation gains, is not available as a distributable reserve.
+
+This conservative approach to calculating distributable reserves ensures that the dividend paid is out of real and realized profits after providing for all possible losses. 
+
+* Trustees decide quantum of dividend and record date.
+* NAV recalculated at the end of the record date.
+* Dividend and Record date announced by AMC within 1 day of decision.
+* Record date -> five calendar days from announcement by AMC.
+* NAV will decline pursuant to the dividend ! pay-out and any statutory levy.
+
+Not necessary for schemes like liquid schemes or other debt schemes with dividend distribution frequency ranging from daily to monthly.
+
+Listed schemes to follow the listing agreement specifications for declaring and distributing dividends. There is no assurance or guarantee that the unit holders as to amount and the date when the dividend will be paid.
+
+#### Norms of Valuation
+* The NAV of the scheme will depend on the value of portfolio.
+* Valuation of the securities in the portfolio to determine the Net Asset Value has to be done in accordance with the valuation norms laid down by SEBI and AMFI.
+
+##### Key Accounting and Reporting Requirements
+* The accounts of the schemes need to be maintained distinct from the accounts of the AMC. The
+auditor for the AMC has to be different from that of the schemes.
+* Norms are prescribed on when interest, dividend, bonus issues, rights issues etc. should be
+reflected for in the accounts.
+* NAV is to be calculated upto 4 decimal places in the case of index funds, liquid funds and other
+debt funds.
+* NAV for equity and balanced funds is to be calculated upto at least 2 decimal places.
+* Investors can hold their units even in a fraction of 1 unit. However, current stock exchange trading systems may restrict transacting on the exchange to whole units.
+
