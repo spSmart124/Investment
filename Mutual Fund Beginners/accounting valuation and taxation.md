@@ -274,3 +274,55 @@ debt funds.
 * NAV for equity and balanced funds is to be calculated upto at least 2 decimal places.
 * Investors can hold their units even in a fraction of 1 unit. However, current stock exchange trading systems may restrict transacting on the exchange to whole units.
 
+### Taxation and Limitation
+#### Definition
+As per section 10(23D) of the Income Tax Act, Mutual Fund Trust are exempted from income and earnings as returns from the investments are given to the investors and these returns are taxable in the hands of investors. The mutual fund issues returns in the form of periodic dividends and increase in value of the units. So, tax obligation will depend upon the type of mutual fund scheme, the type of investor and the period of holding. The definition under income tax act for this purpose are as follows.
+
+Equity-oriented scheme is a mutual fund scheme where at least 65 percent of the assets are invested in equity shares of domestic companies.
+For calculating this percentage
+* First the average of opening and closing percentage is calculated for each month.
+* Then the average of such value is taken for the 12 months in the financial year.
+
+Money market mutual funds / liquid schemes follow SEBI definition which is as below.
+These type of schemes are set up with the purpose of investing completely in money market instruments (for example short term debt securities)
+
+#### Securities Transaction Tax (STT)
+In case an investor trades units of an equity fund in the stock exchange, or offers them for re-purchase to the fund, then he has to incur Securities Transaction Tax (STT).
+
+##### STT applicable only on
+Redemption
+Switch to other schemes
+Sale of units of equity oriented mutual funds whether traded on stock exchange or otherwise
+
+##### STT is not applicable on
+Buying the units of an equity scheme
+Transactions in debt securities or debt mutual fund schemes
+
+STT Applicability for Investors in Equity Oriented Mutual Funds
+| Transaction | Rates (in percent) | Payable by |
+| ----------- | ------------------ | ---------- |
+| Purchase of units of equity oriented mutual fund | NIL | Purchaser |
+| Sale of units of equity oriented mutual fund (delivery based) | 0.001 | Seller |
+| Sale of units of equity oriented mutual funds (non-delivery based) | 0.025 | Seller |
+| Sale of units of an equity oriented fund to the mutual fund | 0.001 | Seller |
+
+
+#### Additional Tax on Income Distributed
+STT Applicability for Investors in Equity Oriented Mutual Funds for 2018-19
+| Schemes | Individual/ HUF | Domestic Company | NRI |
+| ------- | --------------- | ---------------- | --- |
+| Equity oriented Scheme | 10% + 12% Surcharge + 4% cess = 11.648% | 10% + 12% Surcharge +4% cess = 11.648% | 10% + 12% Surcharge +4% cess = 11.648% |
+| Money Market or Liquid Schemes/ Debt Schemes (other than Infrastructure Debt Fund) | 25% + 12% Surcharge + 4% cess = 29.12% | 30% + 12% Surcharge + 4% cess = 34.944% | 25% + 12% Surcharge + 4% cess = 29.12% |
+| Infrastructure Debt Fund | 25% + 12% Surcharge + 4% cess = 29.12% | 30% + 12% Surcharge + 4% cess = 34.944% | 5% + 12% Surcharge + 4% cess = 5.824% |
+
+The surcharge mentioned above is calculated on the base tax; and the cess is calculated on the aggregate of base tax and surcharge.
+There is a tax on dividend distributed by mutual fund schemes (equity and debt) which is paid by the mutual fund. The dividend that the unit holders receive is however exempt from tax in the hands of the recipient.
+
+Resident tax payers pay a tax of 10% (plus applicable surcharge and cess) except Domestic companies and few other specified entities in case dividend income received > 10 lakh from a domestic company.
+
+#### Concept of Indexation
+Indexation means the cost of acquisition is adjusted upwards to reflect impact of inflation.
+
+Benefits available only for long term capital gains. The government declares an inflation index number valid for every financial year so that indexation can be calculated.
+
+Tax is payable on long-term capital gains, after indexation, at 20% + surcharge + cess.
