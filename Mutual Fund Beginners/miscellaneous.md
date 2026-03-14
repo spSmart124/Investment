@@ -219,3 +219,25 @@ The dividend is invested in the target scheme on the next business day, after th
 Mutual funds require the DTP membership form to be registered before a specific number of days.
 
 The DTP mandate will automatically get over when the unit holding in the source scheme becomes nil.
+
+## Investment Options
+There are three investing options
+* Dividend Payout Option
+* Dividend Reinvestment Option
+* Growth Option
+
+These options must be selected at the time of purchasing units. Many a times investors feel the Dividend reinvestment option is better than others.
+
+**Growth Option** is for those investors who are looking for capital appreciation.
+
+### Example
+Say an investor aged 25 invests Rs. 10000/ in an equity scheme. He would not be requiring a regular income from his investments as his salary can be used for meeting his monthly expenses. He would instead want his money to grow and this can happen only if he remains invested for a long period of time. Such an investor should go for growth options. The NAV will fluctuate as the market moves. So, if the scheme delivers a return of 12% after 1 year then the amount would grow to Rs. 112000/. Note that there is no money getting out of the scheme nor investor is getting more units.
+
+In case an investor chooses **Dividend Payout option**, based on above example, investor will receive Rs. 12/share as dividend after one year. This results in a cash outflow in the scheme. The impact of this is that the NAV will fall by Rs. 12. Here investor will not get any more no of units. However, he will receive Rs. 12000 as dividend. Dividend payout will not give the benefit of compounding.
+
+In case of **Dividend Reinvestment option** investor chooses to reinvest dividend in the scheme. So, Rs. 12/, which was received as dividend earlier, gets invested into the scheme again at the rate of Rs. 100/. This is because after payout of dividend the NAV will fall to Rs. 100. Thus the investor gets ```12000/100 = 120``` additional units. Though investor received 120 additional units, the NAV has come down to Rs. 100. So, returns in all the investmetn options will be the same.
+
+* No dividend distribution tax for equity schemes
+* Dividend distribution tax applicable for debt scheme
+* Lesser units received due in dividend reinvestment option
+
