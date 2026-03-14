@@ -157,3 +157,65 @@ The **Investment Strategy** of the scheme summarizes the approach that must be f
 1. Method of checking the correct buying price
 1. Monitoring selling discipline
 1. Range of flexibility to be allocated in investing in different asset classes
+
+## Investment Methods
+Various investment methods are.
+1. Systematic Investment Plan (SIP)
+1. Systematic Transfer Plan (STP)
+1. Systematic Withdrawal Plan (SWP)
+1. Dividend Transfer Plan (DTP)
+
+### Systematic Investment Plan (SIP)
+Systematic Investment Plan (SIP) is an approach where the investor invests a fixed amount in a regular interval. A certain amount is invested regularly let's say every month on a date as per investor's choice.
+
+This approach averages cost of aquisition as more units are bought when the price is low and less no of units when the price is high.
+
+For marginal Investors, SEBI has waived existence of PAN card for Investment less than Rs. 50000/ in a financial year. Such installments are called micro SIP.
+
+Investing smaller amounts are easy on investor's Pocket. Saving for Goals achievable when investments are made periodically. Mutual Fund facilitates by investing through Post-Dated Cheques (PDCs), ECS or Standing Instructions (SI).
+
+### Systematic Transfer Plan (STP)
+Systematic Transfer Plan (STP) is a method of systematically transferring funds to purchase units or transferring units from one scheme to another scheme. The STP provided by Mutual Fund is a cost effective and convenient facility. It can be used by investors to make periodic investments into a volatile market such as equity or to rebalance a portfolio to book profits. Investors can choose to transfer an amount each period or transfer appreciation in a scheme.
+
+#### Example
+In case of an SIP investor's money moves from his savings account to preferred mutual fund scheme. Let's say an investor invest Rs. 1000/ each on 5th, 10th, 15th and 25th of a month which accounts for a total investment of Rs. 5000/ at the end of the month. This money remains in savings account of investor for 25 days and earns interest at 4-6% depending on the bank. If investor moves this amount Rs. 5000/ at the beginning of the month to a liquid fund and transfer Rs. 1000/ at choosen dates periodically to scheme of his choice then not only he will get benefit of SIP but earn slightly higher interests as well in the liquid fund as compared to bank FD. As the money is invested in liquid fund the risk involved is minimal and do not have any exit load. This is known as STP.
+
+### Systematic Withdrawal Plan (SWP)
+It is obvious that an investor do not want to investment their money at market peak nor redeem units at market. They can take a safer route of offering for re-purchasing a constant value of units over a period of time. This can be done using **Systematic Withdrawal Plan (SWP)**.
+
+Mutual fund allows the investor to manage their SWPs by registering the
+* Amount
+* Periodicity (Generally monthly)
+* Period of SWP
+
+Few schemes even offer transferring only the appreciation or dividend.
+
+#### Example
+Say an investor aged 60 yrs invests Rs. 2000000/ at retirement. If he wants to use this money over a period of 20 yrs he can withdraw Rs. 100000/pa or Rs. 8333/month. The investor will also get return on his investment of Rs. 2000000/ depending on where the money has been invested by the mutual fund. In this example we have not considered the effect of compounding. If that is considered then he will be able to either draw some more money every month or get the same amount for longer period of time.
+
+Within SWP an investor invests a lumpsum amount and withdraws some amount regularly over a period of time. This results in a steady income for the investor while his principal gets drawn down gradually.
+
+#### Difference between SIP and MIP (Monthly Income Plan)
+| SWP | MIP |
+| --- | --- |
+| It is an investment style | It is type of scheme |
+| Investor's capital goes down | The capital is not touched and only the interest is paid to the investor as dividend |
+
+### Dividend Transfer Plan (DTP)
+**Dividend Transfer Plan (DTP)** enables investors to invest dividend garnered through one scheme in a mutual fund in another scheme of the same mutual fund. Investor having low risk profile gets the benefit of diversification by transferring dividends earned from Debt funds to Equity funds. Likewise dividend earned in Equity fund can be transferred to Debt funds. This is done to rebalance the portfolio and also to manage risks.
+
+Mutual funds choose the schemes, both the ones from which the dividends can be transferred and the target schemes to which they can be transferred.
+
+The investor must acquire units in the dividend option of a scheme to sign up for this facility.
+
+All the units held under this scheme, plan, and option selected for DTP will be taken into consideration for transfer.
+
+The units in the target scheme are acquired in the same folio as the source scheme.
+The minimum application amount indicated for the target scheme will not be applicable to investments that are made under a DTP.
+
+The mutual fund indicates a minimum amount of dividend that can be transferred.
+The dividend is invested in the target scheme on the next business day, after the recording date for the payout of dividend in the source scheme.
+
+Mutual funds require the DTP membership form to be registered before a specific number of days.
+
+The DTP mandate will automatically get over when the unit holding in the source scheme becomes nil.
