@@ -28,3 +28,4 @@ You will learn basics of investment
 1. [Offer Document](./Mutual%20Fund%20Beginners/offer%20document.md)
 1. [accounting valuation and taxation.md](./Mutual%20Fund%20Beginners/accounting%20valuation%20and%20taxation.md)
 1. [Miscellaneous](./Mutual%20Fund%20Beginners/miscellaneous.md)
+1. [Growth of Online Platforms For Mutual Funds](./Mutual%20Fund%20Beginners/mutual%20funds%20online%20platform%20growth.md)
