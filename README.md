@@ -31,4 +31,4 @@ You will learn basics of investment
 1. [Growth of Online Platforms For Mutual Funds](./Mutual%20Fund%20Beginners/mutual%20funds%20online%20platform%20growth.md)
 
 ## Technical Analysis
-[Introduction to Technical Analysis](./Technical%20Analysis/introduction%20to%20technical%20analysis.md)
+1. [Introduction to Technical Analysis](./Technical%20Analysis/introduction%20to%20technical%20analysis.md)

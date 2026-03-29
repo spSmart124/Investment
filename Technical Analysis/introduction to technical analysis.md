@@ -18,7 +18,7 @@ If more people want to buy the stock than sell it. Demand is higher than supply.
 If more people want to sell the stock than buy it. Supply is higher than demand. So, price of stock falls.
 
 ### Demand-Supply Curve
-Let's understand the demand- supply mechanism with the help of an example.
+Let's understand the demand-supply mechanism with the help of an example.
 Data of buy and sell quantity for shares of ABC Ltd. at various prices, is given below.
 
 | Price (INR) | Supply (in units) | Demand (in units) |
@@ -122,7 +122,7 @@ A fundamental analyst may also follow a 'Bottom-up' approach. It involves analyz
 Often, markets move, purely based on investor sentiment. By sentiment, we simply mean the prevailing mood of the market.
 
 You might have observed that despite very good results, the stock price of a company decreases, and vice versa.
-REUTERS
+
 
 RIM woes in spotlight despite robust results
 Shares in "Research In Motion" ended almost flat on Friday as robust results were mostly overlooked and analysts stuck to pessimistic views on the product BlackBerry.
@@ -132,3 +132,76 @@ Let us understand how market sentiment works in practice.
 ![Market Sentiment](../resources/market_sentiment.png)
 
 Let's take an example of Ravi, who wants to buy 1000 shares of Hero Moto corp at Rs. 3200 while the current market price is Rs. 3300 on 15th Jan. So, he waits. On 1st of Feb current market price moves upward to 3400. Ravi thinks all these guys who are buying at 3400 are foolish!. So, he waits again. A couple weeks down the line on 15th Feb the current market price moves further upto Rs. 3500. He starts to wonder and asks himself "Do they know something that I don't?". Now, he starts getting worried. First forward to two weeks on 1st of March, current market price further goes upto Rs. 3600. And now, he panics. He quickly picks up the phone to his broker and places an order at Rs. 3600. This herd mentality is called **Market sentiment**.
+
+### Factors Affecting Market Sentiments
+Some of the factors that affect this sentiment are:
+#### Performance of global markets
+If global markets (US, Europe, Rest of Asia) are in negative territory, most of the times Indian markets would follow the same trend.
+
+#### Liquidity Situation
+Let's understand this by looking at what happened in 2014. In 2014, with the tapering of Quantitative Easing (QE) in the United States, some foreign funds were flowing out of Emerging Markets like India.
+
+The Federal Reserve announced tapering of QE as growth of the US economy was looking stable.
+
+##### Quantitative Easing
+You can better understand **Quantitative Easing** by looking at what happened in 2008, the global financial crisis, also populalrly known as sub-prime crisis. In order to revive the economy, the US federal reserve took up the initiative of quatitive easing. It's a moneytary policy of infusing liquidity into the system by creating new money. The newly created money ultimately utilised for buying financial assets like bonds and corporate debts by financial institutions in the country. So, the money moved from central bank in the form of new money into the economy. And the US citizens were able to buy financial assets from the US banks and in turn financial institutions of that country were able buy finacial assets and infuse liquidity into emerging markets like Indian economy.
+
+**Quantitative easing** was the US Fed monetary policy of infusing liquidity into the system by creating 'new money'. The newly created money is ultimately utilized for buying financial assets like bonds & corporate debt from financial institutions in the country.
+
+As QE fears abated, Indian stock markets hit record highs in October 2014, despite analysts calling the markets overvalued. FIIs continued to pump in money, as economic outlook in the rest of the world, including China, was soft. In market jargon, it was called a rally driven by liquidity, rather than Fundamentals.
+
+If this were the case, fundamental analysis will tend to have its limitations, as it analyses what we know the IQ - intelligent quotient of the market, and not the EQ -Emotional quotient of the market. Hence, another school of thought called 'Technical Analysis' came into being.
+
+## Technical Analysis
+Technical analysis by definition, is determining stock trends based purely on historical price movements, and not on fundamentals. The basic premise of technical analysis is that:
+1. Investor behaviour will be repeated over time
+2. All market factors good or bad, are already reflected in the market price of a stock.
+
+**Important:**
+Hence, a technical analyst looks at market price and nothing else.
+
+In practice, technical analysis is done by plotting usually the closing prices of a stock or index on a chart, and identifying different patterns, and technical indicators for the stock. These patterns and indicators help determine the future trend of the stock.
+
+Technical analysts are also called chartists for the same reason.
+
+### Seimens - Buy
+LTP: Rs 758
+Target: Rs 933
+Since 2013 this counter is moving in a well-defined ascending channel with multiple touch points. Hence, if the stock sustains above Rs 700 levels, a decent target of Rs 933 can't be ruled out in this counter over a period of time.
+### Bank of Baroda - Buy
+LTP: Rs 111.70 Target: Rs 150 Investors should accumulate this counter between 110 90 kind of levels. In case it stabilizes and rallies eventually it should test its interim top placed at 150 levels. A stop suggested for the trade is a close below Rs 80.
+
+### Mahindra & Mahindra - Buy
+LTP: Rs 758 Target: Rs 933 Since 2013 this counter is moving in a well-defined ascending channel with multiple touch points. Investors should accumulate this counter between 730 700 kind of levels. A stop suggested for the trade is a close below Rs 685.
+
+
+This is a report given by a Technical analyst from Chartview India, where he has shared his technical views on different stocks, and why he feels the stocks should move in a particular direction. This is a regular column in the Money Control market page. We shall decode the jargon mentioned in the article as we go along.
+
+## Difference between Technical and Fundamental Analysis:
+| Parameter | Fundamental Analysis | Technical Analysis |
+| --------- | -------------------- | ------------------ |
+| Horizon | A fundamental analyst looks into the balance sheet or the profitability of the business. The view here is typically long term in nature. | The Technical Analyst is more concerned about the current momentum in a particular stock. The view here is typically short term. | 
+| Basis | Fundamental analysis is based purely on fundamentals of the stock. | Technical analysis is based purely on investor behavior. |
+
+Infosys for example: If past behavior suggests that Infosys must be sold whenever it comes close to INR 700, the pure technical analyst will do so, even if Infosys posts better than expected results.
+
+## Which is better approach?
+Although fundamental & technical analysis are viewed as polar opposites, combining the two can lead to better results. An ideal investment decision should be backed by both the analysis.
+
+**Important:**
+Hence a fundamental analyst cannot ignore technical factors affecting stock movements.
+Similarly, a technical analyst cannot afford to ignore the fundamental factors affecting a stock.
+
+## Charles Dow Theories
+### Interesting Facts
+* Charles Dow known as the FATHER of Technical Analysis, was an American journalist.
+* He founded The Wall Street Journal, which has become one of the most respected financial publications in the world.
+* He profounded the Dow Theory, which became the basis of the Modern Technical Analysis which we use today.
+* He invented the Dow Jones Industrial Average, the benchmark stock index in the U.S, as part of his research into market movements.
+
+### Chart Studies Theory
+There are three important theories
+* Market has three movements
+* Market immediately discounts information
+* Trends are confirmed by volume
+
