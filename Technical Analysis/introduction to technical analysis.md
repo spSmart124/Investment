@@ -144,7 +144,7 @@ Let's understand this by looking at what happened in 2014. In 2014, with the tap
 The Federal Reserve announced tapering of QE as growth of the US economy was looking stable.
 
 ##### Quantitative Easing
-You can better understand **Quantitative Easing** by looking at what happened in 2008, the global financial crisis, also populalrly known as sub-prime crisis. In order to revive the economy, the US federal reserve took up the initiative of quatitive easing. It's a moneytary policy of infusing liquidity into the system by creating new money. The newly created money ultimately utilised for buying financial assets like bonds and corporate debts by financial institutions in the country. So, the money moved from central bank in the form of new money into the economy. And the US citizens were able to buy financial assets from the US banks and in turn financial institutions of that country were able buy finacial assets and infuse liquidity into emerging markets like Indian economy.
+You can better understand **Quantitative Easing** by looking at what happened in 2008, the global financial crisis, also populalrly known as sub-prime crisis. In order to revive the economy, the US federal reserve took up the initiative of quatitive easing. It's a moneytary policy of infusing liquidity into the system by creating new money. The newly created money was ultimately utilised for buying financial assets like bonds and corporate debts by financial institutions in the country. So, the money moved from central bank in the form of new money into the economy. And the US citizens were able to buy financial assets from the US banks and in turn financial institutions of that country were able buy finacial assets and infuse liquidity into emerging markets like Indian economy.
 
 **Quantitative easing** was the US Fed monetary policy of infusing liquidity into the system by creating 'new money'. The newly created money is ultimately utilized for buying financial assets like bonds & corporate debt from financial institutions in the country.
 
@@ -204,4 +204,58 @@ There are three important theories
 * Market has three movements
 * Market immediately discounts information
 * Trends are confirmed by volume
+
+#### Market has three movements
+1. The main movement, primary movement or major trend.
+
+This may last from less than a year to several years. It can be bullish or bearish. It represents the broad underlying trend in the market. Success of a chartist is his/her ability to spot the primary movement and stay with it.
+
+![Main Movement](../resources/main_movement.png)
+
+2. The medium swing, secondary movement, intermediate reaction
+
+![Secondary Movement](../resources/secondary_movement.png)
+
+This may last from ten days to three months, is reactive in nature, and is contrary to the primary trend i.e. a correction in a bull market or a rally in a bear market. According to Dow, this movement generally retraces 33% to 66% of the primary price change, with 50% being the most probable. Also, secondary moves tend to be faster and sharper than the preceding primary move.
+
+3. The short swing or minor movement varies with opinion, from hours to a month or more.
+
+![Short Movement](../resources/short_movement.png)
+
+
+It is important for a trader to identify a movement as a primary or secondary movement.
+This will define whether you are in the broad confines of a bull or bear market.
+
+Secondly, as the secondary movement is more unpredictable in terms of time, it requires a more detailed analysis.
+
+**<u>For example:</u>**
+
+* Is this a secondary trend or a start of a new
+primary trend?
+* How far does a secondary move have to go before the primary trend is affected?
+
+These are judgements based on experience.
+
+#### Market immediately discounts information
+This premise states that all public information related to a stock is discounted or reflected in the market price.
+
+**<u>REUTERS</u>**
+
+Infosys results spell trouble for sector, shares fall 9 pct. Infosys Technologies Ltd, India's No. 2 software services exporter, sparked worries about the sector's growth after it estimated annual sales lower than consensus as client spending slowed, knocking its shares down more than 9%
+
+
+For example: If Infosys is not doing well, the Infosys stock has already gone down. There is no point in analyzing this information again. All an analyst needs to look at is market price, and identify trends based on these prices.
+
+#### Trends are confirmed by volume
+Dow believed that volume confirmed price trends. When prices move on low volume, there could be many different explanations why. An overly aggressive seller could be present for example. But when price movements are accompanied by high volume, Dow believed this represented the 'true' market view.
+
+![Trends Confirmed by Volume](../resources/trends_confirmed_by_volume.png)
+
+Supply exceeds demand by 5000 units, may not be a trend. Supply exceeds demand by 25000 units, indicates a trend.
+
+If many participants are active in a particular security, and the price moves significantly in one direction, Dow maintained that this was the direction in which the market anticipated continued movement.
+
+**To him, it was a signal that a trend is developing.**
+
+![Trend](../resources/trend_confirmed_by_volume_1.png)
 
