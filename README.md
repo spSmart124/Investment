@@ -32,4 +32,4 @@ You will learn basics of investment
 
 ## Technical Analysis
 1. [Introduction to Technical Analysis](./Technical%20Analysis/introduction%20to%20technical%20analysis.md)
-1. 
+1. [Preparation of Technical Charts](./Technical%20Analysis/technical%20chart%20preparation.md)
