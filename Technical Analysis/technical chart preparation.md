@@ -49,7 +49,7 @@ Certain types of chart require other information like
 
 | Date | Symbol | Series | Open | High | Low | LTP | Close | Volume | Turnover (in Lakhs) |
 | ---- | ------ | ------ | ---- | ---- | --- | --- | ----- | ------ | ------------------- |
-| 13-Feb-2019 | | YESBANK | EQ | 173.99 | 174.70 | 168.10 | 168.70 | 169.43 | 2,62,29,114 | 44,881.43 |
+| 13-Feb-2019 | YESBANK | EQ | 173.99 | 174.70 | 168.10 | 168.70 | 169.43 | 2,62,29,114 | 44,881.43 |
 | 12-Feb-2019 | YESBANK | EQ | 172.00 | 176.25 | 172.10 | 172.65 | 172.65 | 2,22.96.518 | 38,893.27 |
 | 11-Feb-2019 | YETBANK | EQ | 175.10 | 176.00 | 170.10 | 173.00 | 173.25 | 2,95,09,227 | 351,023.40 |
 | 08-Feb-2019 | YESBANK | EQ | 177.00 | 176.30 | 173.25 | 175.10 | 175.10 | 2,25,61,739 | 57,294.15 |
@@ -67,21 +67,26 @@ Time is plotted on X axis. All technical charts are made with respect to time, t
 
 **<u>End of Day (EOD) chart</u>**
 These are charts that plot the daily closing prices for a stock or index.
+
 ![EOD Chart](../resources/eod_chart.png)
 
 **<u>Intraday chart</u>**
 It's a continuous tick chart that represents the trading of that day (hourly or tick by tick). This chart is used by short term traders.
+
 ![Intraday Chart](../resources/intraday_chart.png)
 
 **<u>Weekly/Monthly charts</u>**
 This is a chart which represents the weekly/monthly closing prices for a stock or index. This is generally used in tandem with the daily charts, to view the short and medium term trends. It may happen that a stock is bullish on the daily charts, but bearish on the weekly charts.
+
 ![Monthly/Weekly Chart](../resources/monthly_chart.png)
 
 ### Plotting Chart by Volume
 It is plotted in volume panel. Technical analysts also use the volumes traded for a particular stock, at a price, as an important determinant for trend analysis. Volume panel is plotted just below the share price panel and shows the daily volume.
+
 ![Volume Panel](../resources/volume_panel.png)
 
 You can see that the volume is plotted along the stock price, and corresponds equally with time period and traded quantity.
+
 ![Volume Panel Correspondence](../resources/volume_panel_correspondence.png)
 
 Trading volume is the primary indicator of supply and demand. If the price is rising with heavy volume, the rise is likely to continue. If that same rising price is with declining volume, the rise is not likely to continue.
@@ -96,6 +101,7 @@ Hence, a price movement in a particular direction must be supported by higher vo
 Analyst must look at price movements in conjunction with volume of turnover, to determine trends. This is what Charles Dow also said, remember **trends are confirmed by volume**.
 
 An example of the Nifty is given below to illustrate this.
+
 ![Volume Price Trend](../resources/volume_price.png)
 
 ### Illustration - Plotting a Price-Volume Char
@@ -103,8 +109,8 @@ Let's now plot a price-volume chart for Tata Motors. What information do we need
 | Date | Closing Price | Volume |
 | ---- | ------------- | ------ |
 | 06-Feb-19 | 178.50 | 1,03,34,594 |
-| 07-Feb-19 | 182.85 | | 1,61,52,722 |
-| 08-Feb-19 | 150.70 | | 10,22,56,857 |
+| 07-Feb-19 | 182.85 | 1,61,52,722 |
+| 08-Feb-19 | 150.70 | 10,22,56,857 |
 | 11-Feb-19 | 152.65 | 2,61,61,867 |
 | 12-Feb-19 | 151.80 | 1,41,74,912 |
 
@@ -136,6 +142,7 @@ To create a line chart, the daily closing prices for a stock is plotted over tim
 ### Bar Chart
 A bar chart, also known as OHLC chart, is drawn using the Open, High, Low and Close of a stock.
 
+#### Plotting Bar Chart
 To plot a bar chart, we need to understand how four prices (Open, High, Low, Close) are plotted and the bar is formed. Let's plot a bar for XYZ ltd. to understand it better. 
 
 | Date | Open | High | Low | Close |
@@ -144,4 +151,63 @@ To plot a bar chart, we need to understand how four prices (Open, High, Low, Clo
 
 First you need to plot 4 different prices on the graph on the same day i.e 10th of May. You need to then connect high with low which becomes a vertical line. And the other two points the open and close you need to follow below steps. For open point draw a left tick (left horizontal bar). For close point draw a right tick (right horizontal bar).
 
-The High and Low show fluctation in price intraday. 
+Trading range shows the fluctuation in price. The High and Low show fluctuation in price intraday. If High-Low is a longer vertical line that means the price fluctuated widely during the day. If High-Low is a shorter vertical line then the price was stable during the day.
+
+![Bar Chart](../resources/bar_chart.png)
+
+When left tick is lower than right tic, it implies that Closing price > Opening price = rise in price in intraday trade. The bar would be colored green/blue in this case.
+
+When right tic is lower than left tic, it implies that Opening price > Closing price = fall in price in intraday trade. The bar would be colored red/black in this case.
+
+A sample bar chart of NIFTY, with different colors, is given below.
+
+![Colored Bar Chart](../resources/colored_bar_chart.png)
+
+**Advantage**: The advantage of a bar chart is that it shows all the relevant trading points i.e. open, high, low and closing for that trading period, making the research more meaningful.
+
+### Candlestick Chart
+This charting technique, also known as the **Japanese candlestick**, is a mix of the line and bar chart. This also shows the Open, High, Low and Closing prices, but in the form of a candle.
+
+![Candlestick Chart](../resources/candle_stick_chart.png)
+
+A candlestick is divided into 2 parts: real body and the shadow.
+
+The part between the open and close on a candle is known as the real part or real body of the candle.
+
+The outer wick shaped vertical lines which indicate the high and low of the Candle stick, are known as the upper and lower shadow respectively. The shadow is the portion of the trading range outside of the body.
+
+![Candlestick](../resources/candlestick.png)
+
+#### Plotting Candlestick Chart
+Let's draw a candlestick for XYZ Ltd. shares using below example.
+| Date | Open | High | Low | Close |
+| ---- | ---- | ---- | --- | ----- |
+| 10th May | 8.25 | 9.75 | 8.00 | 9.50 |
+
+First we need to plot Open, High, Low and Close prices. The gap between Open and Close must be filled with real body. On either side of the body extend the vertical line till High and Low. If Close price is higher than the Open price then the candlestick is plotted in green, blue, white or hollow. However, if Close price is lower thant the Open price then the candlestick is plotted in red or black.
+
+**Advantages**: The colors makes it easy for the analyst to understand the trend. Compared to traditional bar charts, many traders consider candlestick charts more visually appealing and easier to interpret.
+
+The relationship between the open and close is considered vital information and forms the essence of candlesticks.
+
+Close > Open indicates buying pressure.
+
+Longer the body of the candle, the more intense will be the buying or selling pressure.
+Open > Close indicates selling pressure.
+
+* Long green candle shows strong buying pressure
+* Long red candle shows strong selling pressure
+
+![Green/Red Candle](../resources/green_red_candle.png)
+
+The more potent, longer candlesticks are called **Marubozu brothers**. 
+
+#### Marubozu brothers
+A green Marubozu forms when Opening price = Lowest price and Closing price = Highest price of the day. This indicates that buyers controlled the price action from the first trade to the last trade. It means that the market was driven by good buying through the day.
+
+![Green Marubozu](../resources/green_marubozu.png)
+
+A red Marubozu forms when Opening price = Highest price and Closing price = Lowest price of the day. This indicates that sellers controlled the price action from the first trade to the last trade. It means that the market was driven by sellers through the day.
+
+![Red Marubozu](../resources/red_marubozu.png)
+
