@@ -211,3 +211,208 @@ A red Marubozu forms when Opening price = Highest price and Closing price = Lowe
 
 ![Red Marubozu](../resources/red_marubozu.png)
 
+#### Doji
+Conversely, a short candlestick indicate little price movement, and represents consolidation. This is also called a **Doji** formation.
+
+The word doji comes from an ancient Japanese word that basically means knife.
+
+A Doji represents the equilibrium between supply and demand, or a tie between bulls and bears in the markets. It marks the beginning of a minor or intermediate trend reversal, and is therefore very important to recognize.
+
+This pattern emerges when prices open and close at or near the same level, indicating indecision of investors. It can be explained as.
+* First the sellers drove the price lower
+* Then the buyers drove the price up
+* Next the sellers drove the price down again
+* Markets end up at the same place where it started indicating indecisiveness
+
+Short trading range signifies little price movement.
+
+Doji can be of either color. It derives its color from the previous day's candle.
+
+There are four types of Doji.
+##### Common Doji
+Short candlestick where opening price = closing price.
+
+![Common Doji](../resources/common%20doji.png)
+
+##### Long-legged Doji
+Long upper and lower shadow that is almost equal in length. This signal indicates that prices traded well above and below the session's opening level, but the end result shows little change from the open.
+
+![Long Legged Doji](../resources/long%20legged%20doji.png)
+
+##### Dragonfly Doji
+Equal open, high, close.
+
+First, sellers drove the prices lower. Buyers pushed the prices back to the opening level and the session high. This signals a reversal after a down-trend. Long lower shadow.
+
+![Dragonfly Doji](../resources/dragonfly%20doji.png)
+
+##### Gravestone Doji
+Equal open, low, close
+
+Buyers drove the prices higher. Sellers pushed the prices back to the opening level and the session low. This signals a reversal after an uptrend. Long upper shadow.
+
+![Gravestone Doji](../resources/gravestone%20doji.png)
+
+#### Engulfing patterns:
+These are where the body of the second candlestick 'engulfs' the first (previous day's candlestick). Second candlestick completely engulfs the first.
+
+![Engulfing Pattern](../resources/engulfing%20pattern.png)
+
+The first candle is often a doji or gravestone. This pattern signal a reversal in the short-term trend.
+
+This is a bullish signal on a down trend
+
+![Bullish Signal on a down trend](../resources/bullish%20signal%20in%20an%20uptrend.png)
+
+This is a bearish signal on a up trend
+
+![Bearish Signal on a up trend](../resources/bearish%20signal%20on%20a%20uptrend.png)
+
+#### Harami patterns:
+Here, the second candlestick must be contained within the body of the first, though the shadows may protrude slightly. 
+
+A Harami formation indicates loss of momentum and often warns of reversal after a strong trend. **Harami** in Japanese, means 'pregnant' which is quite descriptive.
+
+![Harami Pattern](../resources/harami%20pattern.png)
+
+Real body of green candlestick ending a row of red candlesticks is a bullish sign in a downtrend.
+
+![Bullish Harami](../resources/bullish%20harami.png)
+
+Real body of red candlestick ending a row of green candlesticks is a bearish sign in an uptrend.
+
+![Bearish Harami](../resources/bearish%20harami.png)
+
+### Point & Figure Chart
+Point & Figure charts represent filtered price movements over time. These charts may look alien to the normal chart users. A Point and Figure chart plots day-to-day price movements without taking into consideration the passage of time. This is a very popular method of charting, especially amongst currency traders.
+
+#### Creating a Point and Figure chart
+##### Step 1: Determination of unit price
+The first step is to define the extent of price movement that has to occur, before it is plotted on the chart. Rising prices are shown with X's, and falling prices are shown with O's. These Xs and Os appear on the chart only if the price moves by one unit in either direction i.e. up or down. (Up-X and Down - O)
+
+#### Example
+If the unit price movement defined is say 10 paisa, then only if price increases by 10p put X in column. Only if price decreases by 10p then put O in column.
+
+![Point & Figure Chart](../resources/point%20and%20figure%20chart.png)
+
+Let us illustrate this with EUR/USD, though the same can be extended to any asset. The unit price movement defined is 10 pips. Pips stands for percentage in point. An 'X' will be marked on the chart in case the EUR/USD rate increases by 10 pips (1.2490 to 1.2500). An 'O' will be marked on the chart for a rate decrease of 10 pips (1.2550 to 1.2540).
+
+| Price | | |
+| ----- | - | - |
+| 1.2550 |
+| 1.2540 | | <span style="background-color:red">0</span> |
+| 1.2530 |
+| 1.2520 | <span style="background-color:green">X</span> | |
+| 1.2510 | <span style="background-color:green">X</span> | |
+| 1,2500 | <span style="background-color:green">X</span> | |
+| 1.2490 | | |
+
+So, if the current price of EUR/USD is 1.2490, and it moved up by 30 pips, it would appear as a column of three X's on the chart.
+
+##### Step 2: Determination of Reversal Point
+The next step is to determine, what is called the **Reversal Point** by how much should the price move in the opposite direction, for the chart to begin a new column, i.e.
+If price is decreasing, then by how much should it increase, to begin a new column and put X.
+
+![X Reversal Point](../resources/x%20reversal%20point.png)
+
+If price is increasing, then by how much should it decrease, to begin a new column and put O.
+
+![O Reversal Point](../resources/o%20reversal%20point.png)
+
+**Continuing with our EUR/USD example:**
+Let us say, the 'reversal' point is 50 pips. So, if EUR/USD has been trading upwards from 1.2540 to 1.2570, it would have to close at 1.2520, before the chart would reverse to a column of O's. Then, as each unit of price movement must be plotted, each 10 pip movement down from 1.2570 levels to 1.2520 will be marked in this new column of O's, and represented by one O.
+
+![Reversal Point](../resources/reversal%20point.png)
+
+#### Point & Figure Chart for stocks
+The following table gives the high and low prices for a particular stock.
+| Date | High | Low |
+| ---- | ---- | --- |
+| 10th Nov | 15.25 | 15.00 |
+| 11th Nov | 15.25 | 14.75 |
+| 12 Nov | 15.00 | 14.75 |
+| 13 Nov | 14.75 | 14.50 |
+| 16th Nov | 14.50 | 14.20 |
+| 17th Nov | 14.50 | 14.00 |
+| 18 Nov | 14.75 | 14.30 |
+| 19 Nov | 14.75 | 14.50 |
+| 20th Nov | 14.50 | 14.25 |
+| 23 Nov | 14.50 | 14.25 |
+| 24 Nov | 14.25 | 14.00 |
+| 25th Nov | 14.25 | 14.00 |
+
+First, the unit price movement should be decided. The unit price movement to be recorded is say 20 paisa, and the reversal point is 60 paisa.
+
+Now, on 10th Nov, the stock showed an upward trend, with a high of 15.25 from 15.00. We mark an "X" in the column, for every 20 paisa movement. There is only one 'X' that falls on the 15.20 price point, as the share has not yet reached 15.40.
+
+The 60 paisa reversal happens on 13th Nov with a low of 14.50. Let's try to understand. From high of 15.25 on 10th Nov the low is 14.75 on 11th Nov which is a decrease of 50 paisa. Which means it has not hit the 60 paisa reversal point. Similar is the case on 12th Nov as the low is 14.75 again. It is a decrease of 50 paisa and does not hit the reversal point of 60 paisa. However, on 13th Nov the decrease of 75 paisa compared to earlier decrease of 50 paisa qualifies for reversal point of 60 paisa. It indicates that the reversal has happened as 75 paisa is more than 60 paisa. We now plot series of O's from 15.00 till 14.40. 
+
+![Reversal Point For Stock 1](../resources/reversal%20point%20for%20stock%201.png)
+
+![Reversal Point For Stock 2](../resources/reversal%20point%20for%20stock%202.png)
+
+An 'O' is not placed in the 14.20 row because the price has not yet reached 14.20. The price does, however, fall to 14.20 on 16th Nov and another "O' is place in the 14.20 row. The price falls once again to 14.00 on 17th Nov. When this occurs yet another 'o' is added to the chart, this time in the 14.00 row. The very next day the chart rises to 14.75, and this constitutes a reversal again.
+
+![Reversal of Stock](../resources/reversal%20of%20stock.png)
+
+The chart is moved to the next column and 'X's are placed in the 14.20, 14.40 and 14.60 rows.
+
+![Reversal Positive](../resources/reversal%20positive.png)
+
+After hitting 14.75 on 18th Nov the stock has not moved upward for the unit price movement of 20 paisa. Neither it has fallen below 60 paisa reversal point. However, on 24th Nov it drops to 14.00 which is a 75 paisa drop from the height of 14.75. It indicates another reversal. 3 O's are placed in the appropriate column to reflect this reversal. And life goes on in this fashion for the chartist.
+
+![Negative Reversal](../resources/negative%20reversal.png)
+
+The chart so far, would then look like this.
+
+![Final Point & Figure Chart](../resources/final%20point%20and%20figure%20chart.png)
+
+#### Rules of Plotting Point & Figure Chart
+* Determine the unit price.
+* Determine the reversal point.
+* Put 'X' when price goes up by one unit.
+* Put 'O' when price goes down by one unit.
+* Move to next column if reversal point is crossed.
+
+#### Reading Point & Figure Chart
+Key Components in reading point and figure charts:
+* Law of Supply and Demand
+* Support Level
+* Resistance Level
+
+##### Law of Supply and Demand
+We all know that the law of supply and demand determines the price of a stock. So in P&F jargon, if we have an uptrend in place with at least three X's, we believe that demand has overcome supply. The reverse is true, when the chart gives us three O's. That indicates supply has overcome demand.
+
+![Law of Supply and Demand](../resources/pf%20supply%20demand%20law.png)
+
+##### Support Level
+We mentioned earlier, that a support level is a level at which traders believe prices will start to move higher after hitting the support mark. A horizontal row of O's as seen above, indicates a support level, and for an uptrend to begin.
+
+![Support Level](../resources/support%20level.png)
+
+If you read below news clipping you will understand that Rs. 910 is the support price for RIL.
+
+![Support Level News Clipping](../resources/support%20level%20news%20clipping.png)
+
+##### Resistance Level
+Similarly, a resistance level is a level at which traders believe prices will start to move lower, after hitting the resistance mark. A horizontal row of X's marks the resistance levels, and for a downtrend to begin.
+
+![Resistance Level](../resources/resistance%20level.png)
+
+If you read the below news snippet carefully, it mentions that the resistance level of RIL is Rs. 1245.
+
+![Resistance Level News](../resources/resistance%20level%20news.png)
+
+**Important:** As trends take some time to reverse in practice, P&F charting is designed for long-term investors and has little value for the short-term trader.
+
+##### The Bearish and Bullish Signal Formation
+
+###### Bearish Signal
+The significant feature of a bearish signal formation is a lower top followed by a lower bottom. This often indicates that supply has overcome demand. This is a signal to sell the stocks.
+
+![Bearish Signal](../resources/bearish%20signal.png)
+
+###### Bullish Signal
+The significant feature of a bullish signal formation is a higher bottom followed by a higher top. This often indicates that demand has overcome supply. This is a signal to buy the stocks.
+
+![Bullish Signal](../resources/bullish%20signal.png)
