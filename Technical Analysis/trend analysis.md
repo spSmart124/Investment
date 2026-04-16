@@ -118,3 +118,77 @@ Volatility = (Closing Price - Opening Price ) / Average of opening and closing p
 
 Volatility = 5.4%
 
+## Support
+The point where enough buyers appear, so as to reverse a falling trend.
+
+![Support Level](../resources/support%20level%20trend%20analysis.png)
+
+In the above chart the support level is INR 250.
+
+Let us look at a recommendation.
+
+**Buy Canara Bank, says Rahul Mohindar**
+
+```
+Rahul Mohindar of viratechindia.com told CNBC-TV18," Canara Bank could be bought around the current levels. Keeping a stop loss of INR 400, I think that is a good support for the stock. One could see a short-term move to about INR 440.
+```
+
+![Support Level Plot](../resources/support%20level%20recommendation.png)
+
+Based on the above plot, INR 440 is a clear support level.
+
+## Resistance
+The point where enough sellers appear, so as to reverse a rising trend.
+
+![Resistance Level Example](../resources/resistance%20level%20example.png)
+
+From the above plot, INR 241 is the resistance level.
+
+Let us look at below recommendation.
+
+**Hindalco Industries may slip to INR 138: Manas Jaiswal**
+```
+Manas Jaiswal of manasjaiswal.com told CNBC-TV18, " Hindalco Industries is staying below the 200 day moving average. Last week, it witnessed some upside correction but ultimately faced lot of resistance near the 200 day moving average, and yesterday it fell sharply. Stock can again test its recent low of INR 138, so that is our target, and stop loss should be INR 150."
+Source: Moneycontrol.com
+```
+
+![Resistance Level Manas Jaiswal](../resources/resistance%20level%20manas%20jaiswal.png)
+
+Based on the above recommendation **200 day moving average** (DMA) is the resistance level.
+
+## Drawing Trend Lines
+A Trend line is a straight line that connects two or more price points. It is then extended, to act as a line of support or resistance.
+
+![Drawing Trend Line](../resources/drawing%20trend%20line.png)
+
+**Important:** A trend line can be formed with a minimum of 2 peaks or troughs.
+
+## Types of Trend Line
+There are 5 types of trend line.
+* Support Trend Line
+* Resistance Trend Line
+* Horizontal Trend Line
+* Angular Trend Line
+* Main Trend Line
+
+### Support and Resistance Trend Line
+A trend line which is formed by joining the troughs of a stock is termed as a **support trend line**. A trend line which is formed by joining the tops/ Peaks of a stock is known as a **resistance trend line**.
+
+![Support and Resistance Trend Line](../resources/support%20and%20resistance%20trend%20line.png)
+
+### Horizontal Trend Line
+A trend line which is made by joining 2 or more peaks or troughs, almost at the same price points. This line can act as a resistance or support trend line.
+
+![Horizontal Trend Line](../resources/horizontal%20trend%20line.png)
+
+### Angular Trend Line
+A trend line drawn with increasing or decreasing peaks and troughs.
+This line can also act as a resistance or support trend line.
+
+![Angular Trend Line](../resources/angular%20trend%20line.png)
+
+### Main Trend Line
+A trend line which extends for a longer term, from 6 months to 1 year or more. Main Trend Line helps determine the long term trend of a stock.
+
+![Main Trend Line](../resources/main%20trend%20line.png)
+
