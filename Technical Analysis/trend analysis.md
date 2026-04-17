@@ -67,7 +67,7 @@ A trigger can be a news or an event, positive or negative, pertaining to a stock
 
 ![Trigger News Snippet](../resources/trigger%20new%20snippet.png)
 
-If you look at the above new snippet it states "3i Infotech shares zoom on IBM stake buy report". So, based on a news or event stock tend to move and that is a trigger.
+If you look at the above news snippet it states "3i Infotech shares zoom on IBM stake buy report". So, based on a news or event stock tend to move and that is a trigger.
 
 ##### Example
 You have invested INR 50,000 in Newgen Bank stock. The following chart depicts a stable trend in the stock, over the past 3 months.
@@ -94,7 +94,7 @@ In a volatile trend, the stock or an index makes higher highs and lower lows. It
 
 ![Volatile Trend](../resources/volatile%20trend.png)
 
-** Important:** Volatile trends might look attractive to intraday investors. For long term investors, it is best to wait till a new trend emerges.
+**Important:** Volatile trends might look attractive to intraday investors. For long term investors, it is best to wait till a new trend emerges.
 
 #### Volatility Calculation
 Volatility refers to the variation in the value of the underlying stock. It is mathematically calculated as the difference in the opening and closing prices divided by the average value, expressed in percentage.
@@ -191,4 +191,75 @@ This line can also act as a resistance or support trend line.
 A trend line which extends for a longer term, from 6 months to 1 year or more. Main Trend Line helps determine the long term trend of a stock.
 
 ![Main Trend Line](../resources/main%20trend%20line.png)
+
+## Trading Using Trend Lines
+Let us see a BUY or a SELL signal on a NIFTY chart:
+
+When the index breaks the support trend line and moves below, this is a SELL signal. When the resistance trend line is broken and the index moves above the trend line, it generates a BUY signal.
+
+![Sell and Buy Signal](../resources/sell%20buy%20signal.png)
+
+Look at below technical analysis
+
+**Hindalco:**
+```
+Manas Jaiswal of manasjaiswal.com told CNBC-TV18," Hindalco Industries is staying below the 200 day moving average. Last week, it witnessed some upside correction, but ultimately faced lot of resistance near the 200 day moving average, and yesterday it fell sharply. Stock can again test its recent low of INR 138, so that is our target and stop loss should be INR 150."
+```
+
+So, sell signal below 200 DMA.
+
+**Orchid Chemicals:**
+```
+Manas Jaiswal is bullish on Orchid Chemicals, which is continuously making higher tops and higher bottoms in the daily chart. On Friday the stock broke the resistance of INR 126 with higher volumes. So now the stock can test INR 134 in next 1-2 trading sessions. One can buy the stock at current levels with a stop loss of INR 124.
+```
+
+The buy signal is at INR 126
+
+## Trend Channel
+A trend channel is formed when the stocks move in a limited range, oscillating between the high and low of the range. This could occur in a rising trend or a falling trend.
+
+![Trend Channel](../resources/trend%20channel.png)
+
+INR 800 - 1000 is he Trend Channel.
+
+### Buy and Sell Signal Identification
+How would you identify a BUY or a SELL signal using a Trend Channel? Let us illustrate this with the help of a live chart of Tata Motors.
+
+A stock can be sold when it hits the upper trend line and starts to reverse. A stock can be bought when it hits the lower trend line and starts to reverse.
+
+![Buy and Sell Signal](../resources/trend%20channel%20sell%20and%20buy%20signal.png)
+
+**Important:** Trend channels are mainly used to illustrate important areas of support and resistance.
+
+### Types of Trend Channel
+There are three types of Trend Channel
+* Short Term Trend Channel
+* Medium Term Trend Channel
+* Long Term Trend Channel
+
+#### Short Term Trend Channel
+Short term trend channel is formed in about a month or more.
+
+![Short Term Trend Channel](../resources/short%20term%20trend%20channel.png)
+
+#### Medium Term Trend Channel
+Medium term trend channel is formed in about three months.
+
+![Medium Term Trend Channel](../resources/medium%20term%20trend%20channel.png)
+
+If you look at the chart, we can identify the the trend channel by plotting **Resistance** trend line and **Support** trend line. If you look at the time period of this trend channel is spanning between Feb till May of about 3 months. And hence the term medium term trend channel.
+
+#### Long Term Trend Channel
+Long term trend channel is formed over a year or sometimes several years.
+
+![Long Term Trend Channel](../resources/long%20term%20trend%20channel.png)
+
+If you look at the graph the **Resistance Trend Line** and the **Support Trend Line** are drawn over a long period. It spans almost 11 months and hence become a **Long Term Trend Channel**.
+
+### Trend Channel-Breakouts
+Any breakout, above or below the trend channel, can be treated as a new trend formation.
+
+![Trend Channel Break out](../resources/trend%20channel%20break%20out.png)
+
+If you look at the chart, the resistance trend line and the support trend line are given for two different channels. A break below the support trend line indicates a sell signal and it leads to a formation of a new trend. Likewise, a break above the resistance trend line indicates a buy signal and leads to a formation of a new trend.
 
