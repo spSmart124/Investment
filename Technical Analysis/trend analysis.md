@@ -130,7 +130,8 @@ Let us look at a recommendation.
 **Buy Canara Bank, says Rahul Mohindar**
 
 ```
-Rahul Mohindar of viratechindia.com told CNBC-TV18," Canara Bank could be bought around the current levels. Keeping a stop loss of INR 400, I think that is a good support for the stock. One could see a short-term move to about INR 440.
+Rahul Mohindar of viratechindia.com told CNBC-TV18," Canara Bank could be bought around the current levels.
+Keeping a stop loss of INR 400, I think that is a good support for the stock. One could see a short-term move to about INR 440.
 ```
 
 ![Support Level Plot](../resources/support%20level%20recommendation.png)
@@ -148,7 +149,9 @@ Let us look at below recommendation.
 
 **Hindalco Industries may slip to INR 138: Manas Jaiswal**
 ```
-Manas Jaiswal of manasjaiswal.com told CNBC-TV18, " Hindalco Industries is staying below the 200 day moving average. Last week, it witnessed some upside correction but ultimately faced lot of resistance near the 200 day moving average, and yesterday it fell sharply. Stock can again test its recent low of INR 138, so that is our target, and stop loss should be INR 150."
+Manas Jaiswal of manasjaiswal.com told CNBC-TV18, " Hindalco Industries is staying below the 200 day moving average.
+Last week, it witnessed some upside correction but ultimately faced lot of resistance near the 200 day moving average, and yesterday it fell sharply.
+Stock can again test its recent low of INR 138, so that is our target, and stop loss should be INR 150."
 Source: Moneycontrol.com
 ```
 
@@ -203,14 +206,19 @@ Look at below technical analysis
 
 **Hindalco:**
 ```
-Manas Jaiswal of manasjaiswal.com told CNBC-TV18," Hindalco Industries is staying below the 200 day moving average. Last week, it witnessed some upside correction, but ultimately faced lot of resistance near the 200 day moving average, and yesterday it fell sharply. Stock can again test its recent low of INR 138, so that is our target and stop loss should be INR 150."
+Manas Jaiswal of manasjaiswal.com told CNBC-TV18," Hindalco Industries is staying below the 200 day moving average.
+Last week, it witnessed some upside correction, but ultimately faced lot of resistance near the 200 day moving average, and yesterday it fell sharply.
+Stock can again test its recent low of INR 138, so that is our target and stop loss should be INR 150."
 ```
 
 So, sell signal below 200 DMA.
 
 **Orchid Chemicals:**
 ```
-Manas Jaiswal is bullish on Orchid Chemicals, which is continuously making higher tops and higher bottoms in the daily chart. On Friday the stock broke the resistance of INR 126 with higher volumes. So now the stock can test INR 134 in next 1-2 trading sessions. One can buy the stock at current levels with a stop loss of INR 124.
+Manas Jaiswal is bullish on Orchid Chemicals, which is continuously making higher tops and higher bottoms in the daily chart.
+On Friday the stock broke the resistance of INR 126 with higher volumes.
+So now the stock can test INR 134 in next 1-2 trading sessions.
+One can buy the stock at current levels with a stop loss of INR 124.
 ```
 
 The buy signal is at INR 126
@@ -220,7 +228,7 @@ A trend channel is formed when the stocks move in a limited range, oscillating b
 
 ![Trend Channel](../resources/trend%20channel.png)
 
-INR 800 - 1000 is he Trend Channel.
+INR 800 - 1000 is the Trend Channel.
 
 ### Buy and Sell Signal Identification
 How would you identify a BUY or a SELL signal using a Trend Channel? Let us illustrate this with the help of a live chart of Tata Motors.
@@ -247,7 +255,7 @@ Medium term trend channel is formed in about three months.
 
 ![Medium Term Trend Channel](../resources/medium%20term%20trend%20channel.png)
 
-If you look at the chart, we can identify the the trend channel by plotting **Resistance** trend line and **Support** trend line. If you look at the time period of this trend channel is spanning between Feb till May of about 3 months. And hence the term medium term trend channel.
+If you look at the chart, we can identify the trend channel by plotting **Resistance** trend line and **Support** trend line. If you look at the time period of this trend channel is spanning between Feb till May of about 3 months. And hence the term medium term trend channel.
 
 #### Long Term Trend Channel
 Long term trend channel is formed over a year or sometimes several years.
