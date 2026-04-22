@@ -267,7 +267,7 @@ The NIFTY 50 covers major sectors of the Indian economy and offers investment ma
 * The first is to sell the shares on the open market. This is generally the option chosen by most individual investors.
 * The second is to gather enough shares of the ETF to form a creation unit, then exchange the creation unit for the underlying securities. This option is generally only available to institutional investors due to the large number of shares required to form a creation unit. When these investors redeem their shares, the creation unit is destroyed, and the securities are turned over to the redeemer. The beauty of this option is in its tax implications for the portfolio.
 
-#### FAQ on ETF
+### FAQ on ETF
 1. Are ETFs cost-efficient?
     * An ETF tracks an index without trying to outperform it, it incurs lower administrative and management costs than actively managed portfolios.
     * Typical ETF administrative and management costs are lower than an actively managed fund, coming in less than 0.20% per annum, as opposed to the over 1% yearly cost of some actively managed mutual fund schemes.

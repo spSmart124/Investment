@@ -37,3 +37,6 @@ You will learn basics of investment
 
 ## Exchange Traded Fund
 1. [Basics of Exchange Traded Funds](./ETF/etf%20basics.md)
+
+## Financial Markets
+1. [Benefits of Investment](./financial%20markets/benefits%20of%20investment.md)
