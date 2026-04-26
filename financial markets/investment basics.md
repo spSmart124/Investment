@@ -202,3 +202,54 @@ After dematerialization it will look like below.
 ![Dematerialized Certificate](../resources/dematerialized%20certificate.png)
 
 The physical certificate will be destroyed and the no of securities held will be transfered to beneficiary account.
+
+## Securities
+### Definition
+As per Securities Contract (Regulation) Act, 1956 (SCRA), **securities** are defined as shares, bonds, stocks or other marketable securities of similar nature in or of any incorporated company or body corporate, government securities, derivatives of other securities, units of collective investment scheme, interest and rights in securities and securities receipt or any other instruments so declared by the central government.
+
+### Securities Market
+**Securities Market** is a place where buyers and sellers of securities can enter into transactions to purchase or sell shares, bonds and debentures etc. Further, it performs an important role of enabling corporates, enterpreneurs to raise resource for their companies and business ventures for public issue. Transfer of resources from those having idle resource or investors to others who have a need for them or corporates is most efficiently achieved through the securities market. Formally, securities markets provide channels for reallocation of savings to Investments and entrepreneurship.
+
+### Need for Regulators
+Securities market without a regulator will be in chaos. Rules and conditions for perfect competition makes the role of regulator extremely important. The regulator ensures that the market participants behave in a desired manner.
+
+The responsibility of regulating securities markets is shared by Department of Economic Affairs (DEA), Ministry of Corporate Affairs (MCA), Reserve Bank of India (RBI), Securities and Exchange Board of India (SEBI).
+
+SEBI is the regulatory authority in India established under section 3 of SEBI Act, 1992. SEBI Act, 1992 provides for the establishment of SEBI with statutory power for protecting the interest of investors in securities, promoting the development of the securities market, and regulating the securities market. SEBI's regulatory jurisdiction extends over corporates in the issuance of capital and transfer of securities in addition to all intermediaries and persons associated with the securities markets.
+
+### Functions of SEBI
+SEBI performs the aforesaid functions by such measures as it thinks fit. In particular, it has powers for
+* Regulating the business in stock exchanges and any other securities markets
+* Registering and regulating the working of stock brokers, sub-brokers, etc.
+* Promoting and regulating self-regulatory organisations
+* Prohibiting fraudulent and unfair trade practices
+* Calling for information, undertaking inspection conducting inquiries and audits of the:
+    * Stock exchanges,
+    * Intermediaries,
+    * Self-regulatory organisations,
+    * Mutual funds and
+    * Other persons associated with the securities market
+
+### Security Market Participant
+The securities markets essentially has 3 categories of participants.
+* Issuers of Securities
+* Investors in Securities
+* Intermediaries
+    * Merchant Bankers
+    * Brokers
+
+While the corporates and the government raises resources from the market to meet their obligations, it is households, other corporates and financial institutions that invest their savings in the securities market.
+
+### Need for an Intermediary
+* Transaction should be done through a trading member of a stock exchange. This is mandatory as per SCRA.
+* Depository is required to open demat accounts to hold securities.
+* Money to be deposited with a banker for a public issue subscription.
+* SEBI provides guidance and SEBI registered intermediaries are authentic.
+
+The list of registered intermediaries is available with exchanges, industry associations and also on the SEBI website, https://www.sebi.gov.in.
+
+### Segments of Securities Market
+There are two independent segments of securities market. These are
+* Primary Market
+* Secondary Market
+

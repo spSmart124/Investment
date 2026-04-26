@@ -40,3 +40,4 @@ You will learn basics of investment
 
 ## Financial Markets
 1. [Benefits of Investment](./financial%20markets/benefits%20of%20investment.md)
+1. [Primary Market](./financial%20markets/primary%20market.md)
