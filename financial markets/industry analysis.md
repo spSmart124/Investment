@@ -60,3 +60,144 @@ When a company starts operation it's owners called shareholders contribute funds
 * Preference Capital
 
 Equity capital does not have a fixed rate of dividend. Preference capital represents contribution by preference shareholders and has a fixed rate of dividend. After distributing dividend a part of the profit is retained by the company for meeting fund requirements for future. The retained profits accumulated for the years are called reserve or surplus which are shareholders property.
+
+## Equity Shareholder
+Equity shareholder are owners of the company. They have right to get dividend. They can vote in Annual General Meeting.
+
+## Preference Shareholder
+Enjoy Preferential Rights on payment of dividend at a fixed rate during the life time of the Company. They also have the right to the return of capital on winding up of the Company.
+
+## Types of Capital
+Various types of capitals are
+* Authorised Capital
+* Issued Capital
+* Subscribed Capital
+* Called Up Capital
+* Paid Up Capital
+
+**Authorised Capital** is the maximum capital that a company is authorised to raise.
+
+**Issued Capital** is that part of authorised capital which is offered by the company for being subscribed by the public or others.
+
+**Subscribed Capital** is that part of issued capital which is subscribed to or accepted by the public.
+
+**Called Up Capital** is that part of subscribed capital which has been called up by the company for payment.
+
+**Paid Up Capital** is that part of called up capital which has been actually paid by the shareholders.
+
+## Secured and Unsecured Loans
+A secured loan is taken against a security, i.e., mortgaging, pledging or hypothecating some immovable property. This is known as creation of charge. It safeguards creditors in cases of default. These are in the form of debentures
+, loans From Financial Institutions and comercial banks. 
+
+Unsecured loans are short term borrowings without security. These can be:
+* Fixed deposits
+* Loans and advances from promoters
+* Inter-corporate borrowings
+* Unsecured loans from the banks
+
+Secured and Unsecured loans together come under the Loans head in balance sheet.
+
+## Application of Funds
+The funds collected by a company from the owners and outsiders are employed to create different types of assets.
+
+### Fixed Assets
+* Acquired for long-terms
+* Used for business operation
+* Not meant for resale
+
+Some types of fixed assets are:
+* Land and buildings
+* Plant
+* Machinery
+* Patents
+* Copyrights
+
+### Investments
+* Financial Securities
+* Through investment of surplus funds
+* Invested into any non-business related avenues
+* To achieve long or short term income
+
+Some examples of this type of investment are:
+* Land
+* Property
+* Fund
+* Stock
+
+### Current Assets, Loans and Advances
+* It can be Cash
+* Other resources convertible to cash
+* Held for short-term
+
+Some of the current assets are:
+* Raw materials
+* Finished goods
+* Cash
+* Debtors
+* Inventories
+* Loans and advances
+* Pre-paid expenses
+
+### Miscellaneous Expenditures and Losses
+* Expenses that are not written off
+* Preliminary expenses
+* Preoperative expenses
+* Loss is decrease in owner's equity
+* Share capital can not be reduced with loss
+* Share capital and loss are shown separately in balance sheet
+* Both are shown on the side of Liabilities
+
+## Gross Block or Gross Fixed Asset
+* Total value of acquiring all fixed assets
+* At different points of time
+
+### Depreciation
+* Reduction in value of Fixed Assets
+* The Companies Act 2013 stipulates different rates of depreciation calculation
+    * Straight Line Method (constant annual method)
+    * Written Down Value Method (depreciation rate decreases over a period of time)
+
+```
+Net Block = Gross Block - Depreciation
+```
+
+### Capital Work in Progress
+The capital or funds used for a new plant under erection, a machine yet to be commissioned etc. are examples of 'Capital Work in Progress', which also has to be taken into account while calculating the fixed assets as it will be converted into gross block soon.
+
+## Balance Sheet Important Terms
+### Current Liabilities
+* Services for which payment is not made
+    * Goods/services bought on credit
+* Advances taken from customers
+* The liabilities that a company has to pay through any method
+
+### Provisions
+* Other expenses that company may have to pay later
+    * Dividends
+    * Taxes
+    * Gratuity
+    * Pensions
+
+### Net Current Assets/Net Working Capital
+Current Liabilities and Provisions reduce the burden of day to day expediture on current assets by deferring some of the payments. For daily operation the company require funds equal to current assets less current liabilities and provisions. This amount is called Net Current Assets/Net Working Capital.
+
+## Understand Balance Sheet
+Balance Sheet indicates matching of sources of funds with application of funds. In case of the XYZ company Ltd., Rs. 1066.31 cr is the total funds employed from two sources of funds i.e share holders fund and loan funds. These funds have been utilized to fund Total Net Asset of Rs. 1066.31 cr. Total Net Asset consists of Fixed Assets Rs. 526.75 cr, investments Rs. 108.58 cr, and Net Current Asset Rs. 430.98 cr. Thus in a Balance Sheet Total Capital Employed = Total Net Asset.
+
+## Profit & Loss Statement
+* Shows the profit and loss of a company
+* Income less expenditure over the financial year
+* How to analyse profit appropriation
+    * Towards dividends
+    * General reserves
+    * Balance
+
+It is the most important document about a company. You should look for below details in the Profit & Loss Statement
+* Overall improvement of sales as well as profits
+* Other income of the company, of annually recurring type
+* Increase in expenditure
+* Profit from its operations only (profit through sales only)
+* Abnormalities in depreciation and interest
+* High depreciation, which is good for the cash flow
+* Calculating the earnings per share and various other ratios
+
