@@ -43,3 +43,6 @@ You will learn basics of investment
 1. [Primary Market](./financial%20markets/primary%20market.md)
 1. [Industry Analysis](./financial%20markets/industry%20analysis.md)
 1. [Ratio Analysis](./financial%20markets/ratio%20analysis.md)
+
+## Introduction to Options
+1. [Introduction to Options](./options/options%20introduction.md)
