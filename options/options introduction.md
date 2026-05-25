@@ -222,3 +222,30 @@ Hence, we can say that C + Xe-rt (Value of Portfolio B) = p + S (Value of Portfo
 ##### Important
 This relationship is known as Put-Call parity. It shows that the value of an European call with a certain exercise price and exercise date can be deduced from the value of a European put with the same exercise price and date, and vice versa.
 
+## How to Use Options
+### Options as Hedging Instruments
+Consider an importer, who has to buy USD 5 mio against INR, 6 months down the line.
+Using Forward Contracts, he can book a forward contract at say 64.00 to hedge himself and forget about it. In this, he is locked into the contracted rate of 64.00.
+
+Alternately, using Call Options, he can buy a call option at a strike price of 64.00. He pays a small premium, but has achieved the same objective of hedging himself. Further, he is not locked into the rate of 64.00.
+
+What happens, if the rates move lower? In Forward Contract if the rates move lower, he has to buy it at 64.00. In Call Options if the rates move lower, he can buy at the lower rate.
+
+Hence, options when purchased provide the same absolute protection against currency loss that forwards do, but at the same time, retain the profit potential.
+
+But unlike a forward contract, which is an obligation to exchange currencies at a specific rate, an option gives its holder the right to exchange currencies without any obligation to do so. This permits the option holder to treat as void, the contracted exchange rate when the prevailing market rate is more advantageous.
+
+### What type of entities use currency options?
+1. **Exporters** seeking to protect and maximize the value of foreign currency denominated revenues.
+1. **Companies** holding rights to purchase foreign currency denominated goods, such as airplanes, commodities, equity stakes.
+1. **Foreign Portfolio managers** who invest in India by converting their foreign currency into INR. They can enhance their total return through active management of the currency component.
+1. **Importers** seeking to protect and minimize costs.
+1. **Corporations** that are planning a foreign investment, acquisition, or divestiture, even though details have not been finalized.
+
+### Speculation Using Options
+Options are not only hedging instruments, but can be used to back a price or interest rate view as well. Let's say a trader is of the opinion USD/INR rate to go up. So, he buys a call option. If exchange rate moves up premium for your call option will also increase. You can then sell your call option and receive the higher premium.
+
+#### Example
+Let's say current spot rate is 62.50. A trader buys a call option at a strike price of 62.50, and pays a premium of 20 paisa. Please note this option is currently at the money. In the event the spot rate goes to 63.00 the premium for in the money options will go up, as they are more profitable. Say the premium for the same option is now 30 paisa. The trader can sell the option and make a 10 paisa profit.
+
+Inter-bank trading in options happens a little differently in practice. We shall discuss that a little later. Now, if you are comfortable with the product, let us discuss some trading strategies involving options.
