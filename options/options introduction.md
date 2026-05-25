@@ -118,3 +118,107 @@ This last term is important for currency options. Let's take an example of a cal
 
 At 11.00 a.m., 2.00 p.m., 5.30 p.m., which time zone etc. Hence it is necessary to have a convention for currency options. A NY cut/Tokyo cut option is whether the cut off time for exercising the option is as per NY 10:00 a.m. or Tokyo 3 p.m.
 
+## Types of Options
+Options, as you may know, are of two types.
+* Put
+* Call
+
+### Put
+These are options that give the owner the right to sell the underlying at a pre-determined price in the future.
+
+#### Example - Put Option
+| | |
+| ---------- | ------------ |
+| Underlying | USD-INR Rate |
+| Tenor | 1 Month |
+| Strike Price | INR 62.50 |
+| Notional Amount | USD 1 mio |
+| Premium | INR 0.56/USD |
+
+This Put option gives the owner the right to sell USD 1 mio against INR in 1 month at 62.50.
+
+### Call
+These are options that give the owner the right to buy the underlying at a pre-determined price in the future.
+
+#### Example - Call Option
+| | |
+| ---------- | ------------ |
+| Underlying | USD-INR Rate |
+| Tenor | 1 Month |
+| Strike Price | INR 62.50 |
+| Notional Amount | USD 1 mio |
+| Premium | INR 0.24/USD |
+
+This Call option gives the owner the right to buy USD 1 mio against INR in 1 month at 62.50
+
+### Important
+Please note that the first example is actually a USD Put - INR Call and the second example is a USD Call - INR Put. It depends on which way you look at it.
+
+Secondly, the option price or premium is typically quoted per unit of the base currency (USD), and is expressed in the quoted currency (INR). Hence, in the put option, the total premium to be paid is: 0.56 * 1,000,000 = INR 56,000.
+
+### Put - Call Parity
+It is now time to introduce the concept of 'Put - Call parity', an important relationship in options. This will test your understanding on options and some basic math.
+
+We will use the following symbols.
+| | |
+| ---------- | ------------ |
+| C | Price of the call option |
+| P | Price of the put option |
+| S | Spot price |
+| X | Strike price |
+| r | Interest(discount) rate |
+| t | Tenor in years |
+
+#### Example
+Now, for European options, consider the following portfolios:
+Portfolio A: One European put option plus one unit of an asset.
+
+Portfolio B: One European call option plus cash equal to the discounted value of the strike price.
+
+Both the call and the put option are struck at the same strike price.
+
+Let us look at the value of each of the portfolios in terms of our symbols.
+
+**<u>Portfolio A:</u>**
+Portfolio A has one put option (at 'p') and one unit of the asset valued at current market price 'S'.
+Hence, A = p + S.
+
+**<u>Portfolio B:</u>**
+Portfolio B has one call option (at 'c'), and cash equal to the discounted value of the strike price today. How much is that ?
+
+PV = FV * e-(rxt)
+Hence, B = c + X * e-(rt)
+
+Now let us look at two market scenarios on maturity, and find out the value of both portfolios.
+
+##### Scenario 1
+If spot price is lower than strike price i.e. S < X, what will be the value of the portfolios on maturity ?
+
+**<u>Portfolio A:</u>**
+If S < X, the value of the portfolio is X, as the put option will be exercised and the share sold.
+A = X
+
+**<u>Portfolio B:</u>**
+If SX, the value of the portfolio is also X, as the call option will expire, and you will have cash equivalent to 'X' (you started with the discounted value of the strike price). B = X
+
+##### Scenario 2
+What happens, if spot price is greater than strike price i.e. S > X?
+
+**<u>Portfolio A:</u>**
+If S > X, the value of the portfolio is S, as the put option will expire, but you still hold your share, that will be worth S, the current market price.
+A = S
+
+**<u>Portfolio B:</u>**
+If S > X, the value of the portfolio at maturity is again S, as you will exercise the call option and buy the share at X. This share is valued at S.
+B = S
+
+Hence, value of portfolio A at maturity, is max (S,X) also, value of portfolio B at maturity, is max (S,X) that is identical to portfolio A.
+
+This implies that both portfolios are worth the same at maturity, irrespective of the spot price and strike price.
+
+Hence, we can say that C + Xe-rt (Value of Portfolio B) = p + S (Value of Portfolio A)
+
+
+##### Important
+This relationship is known as Put-Call parity. It shows that the value of an European call with a certain exercise price and exercise date can be deduced from the value of a European put with the same exercise price and date, and vice versa.
+
